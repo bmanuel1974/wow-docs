@@ -805,5 +805,307 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Gloves with +Spirit and +Stamina
 
 ---
-+++++++ REPLACE
-</replace_in_file>
+
+## 🏰 Dungeon Guide
+
+### Ragefire Chasm (RFC)
+**Level Range:** 13-18  
+**Location:** Orgrimmar (Horde)  
+**Warlock Benefits:** Early cloth gear, experience, and practice with pet management
+
+**Notable Drops:**
+- Robes of the Moccasin (Cloth chest with +Intellect)
+- Staff of the Blessed Seer (Staff with +Spirit)
+
+**Boss Guide:**
+- **Taragaman the Hungerer:** Use Voidwalker to tank, keep Corruption and Curse of Agony up. Watch for Fire Nova.
+- **Jergosh the Invoker:** Interrupt Shadow Bolt if possible, keep DoTs up, use Healthstone if needed.
+- **Bazzalan:** Use Fear on adds, focus boss with Shadow Bolt spam.
+
+---
+
+### Wailing Caverns (WC)
+**Level Range:** 17-24  
+**Location:** Barrens  
+**Warlock Benefits:** Excellent cloth gear, Shadoweave recipes, enchanting materials
+
+**Notable Drops:**
+- Robe of the Moccasin (Cloth chest with +Intellect)
+- Serpent's Shoulders (Cloth shoulders with +Spirit)
+
+**Boss Guide:**
+- **Lady Anacondra:** Keep Voidwalker on her, use Curse of Weakness.
+- **Lord Pythas:** Interrupt heals, maintain DoTs.
+- **Lord Cobrahn:** Tank and spank, use Amplify Curse for extra damage.
+- **Kresh:** Simple melee boss, keep Corruption up.
+- **Lord Serpentis:** Fear adds, focus boss with Shadow Bolt.
+- **Verdan the Everliving:** Use Drain Life for healing, maintain DoTs.
+- **Mutanus the Devourer:** Keep Voidwalker alive, use all cooldowns.
+
+---
+
+### Deadmines (VC)
+**Level Range:** 17-26  
+**Location:** Westfall  
+**Warlock Benefits:** Cloth gear, enchanting materials, gold
+
+**Notable Drops:**
+- Emberstone Staff (Staff with +Intellect)
+- Blackened Defias Robe (Cloth chest with +Intellect/Stamina)
+
+**Boss Guide:**
+- **Rhahk'Zor:** Simple melee boss, keep Voidwalker tanking.
+- **Sneed's Shredder:** Use Curse of Weakness, maintain DoTs.
+- **Gilnid:** Tank and spank, use Life Tap for mana.
+- **Mr. Smite:** Keep Voidwalker alive, use all damage spells.
+- **Captain Greenskin:** Fear adds, focus boss.
+- **Edwin VanCleef:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Shadowfang Keep (SFK)
+**Level Range:** 22-30  
+**Location:** Silverpine Forest  
+**Warlock Benefits:** Excellent cloth gear, Shadoweave recipes
+
+**Notable Drops:**
+- Robes of Arugal (Cloth chest with +Intellect/Stamina)
+- Feline Mantle (Cloth shoulders with +Spirit)
+
+**Boss Guide:**
+- **Rethilgore:** Use Voidwalker, keep Corruption up.
+- **Razorclaw the Butcher:** Simple melee boss, maintain DoTs.
+- **Baron Silverlaine:** Fear adds, focus boss.
+- **Commander Springvale:** Use Curse of Weakness, tank and spank.
+- **Odo the Blindwatcher:** Keep Voidwalker alive, use all spells.
+- **Fenrus the Devourer:** Use Drain Life for healing.
+- **Arugal:** Use all cooldowns, keep Voidwalker tanking, avoid Shadow Bolts.
+
+---
+
+### Blackfathom Deeps (BFD)
+**Level Range:** 24-32  
+**Location:** Ashenvale  
+**Warlock Benefits:** Cloth gear, enchanting materials, Shadoweave recipes
+
+**Notable Drops:**
+- Robes of the Lich (Cloth chest with +Intellect/Stamina)
+- Strike of the Hydra (Staff with +Spirit)
+
+**Boss Guide:**
+- **Ghamoo-ra:** Use Voidwalker, keep Corruption up.
+- **Lady Sarevess:** Fear adds, focus boss with Shadow Bolt.
+- **Gelihast:** Use Curse of Weakness, maintain DoTs.
+- **Baron Aquanis:** Tank and spank, use Life Tap for mana.
+- **Twilight Lord Kelris:** Use all cooldowns, keep Voidwalker alive.
+- **Old Serra'kis:** Use Drain Life for healing, maintain DoTs.
+- **Aku'mai:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### The Stockade
+**Level Range:** 24-32  
+**Location:** Stormwind  
+**Warlock Benefits:** Cloth gear, enchanting materials, gold
+
+**Notable Drops:**
+- Magefist Gloves (Cloth gloves with +Intellect)
+
+**Boss Guide:**
+- **Bazil Thredd:** Use Voidwalker, keep Corruption up.
+- **Dextren Ward:** Use Curse of Weakness, maintain DoTs.
+- **Bruegal Ironknuckle:** Simple melee boss, use all damage spells.
+
+---
+
+### Gnomeregan
+**Level Range:** 29-38  
+**Location:** Dun Morogh  
+**Warlock Benefits:** Cloth gear, enchanting materials, Shadoweave recipes
+
+**Notable Drops:**
+- Electromagnetic Gigaflux Reactivator (Cloth head with +Intellect)
+- Manual Crowd Pummeler (Staff with +Spirit)
+
+**Boss Guide:**
+- **Grubbis:** Use Voidwalker, keep Corruption up.
+- **Viscous Fallout:** Use Curse of Weakness, maintain DoTs.
+- **Electrocutioner 6000:** Tank and spank, use Life Tap for mana.
+- **Crowd Pummeler 9-60:** Use all cooldowns, keep Voidwalker alive.
+- **Mekgineer Thermaplugg:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Razorfen Kraul (RFK)
+**Level Range:** 29-38  
+**Location:** Barrens  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Robes of the Lich (Cloth chest with +Intellect/Stamina)
+
+**Boss Guide:**
+- **Roogug:** Use Voidwalker, keep Corruption up.
+- **Aggem Thorncurse:** Use Curse of Weakness, maintain DoTs.
+- **Death Speaker Jargba:** Fear adds, focus boss.
+- **Overlord Ramtusk:** Tank and spank, use all damage spells.
+- **Agathelos the Raging:** Use all cooldowns, keep Voidwalker alive.
+- **Charlga Razorflank:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Scarlet Monastery (All Wings)
+**Level Range:** 30-45  
+**Location:** Tirisfal Glades  
+**Warlock Benefits:** Cloth gear, enchanting materials, Shadoweave recipes
+
+**Notable Drops:**
+- Illusionary Rod (Staff with +Intellect)
+- Robe of Doan (Cloth chest with +Intellect)
+
+**Boss Guide:**
+- **Graveyard:** Interrogator Vishas, Bloodmage Thalnos—keep Voidwalker tanking, use DoTs.
+- **Library:** Houndmaster Loksey, Arcanist Doan—Fear adds, use Curse of Weakness on Doan.
+- **Armory:** Herod—avoid Whirlwind, use Voidwalker to tank.
+- **Cathedral:** Mograine and Whitemane—focus Whitemane after she resurrects Mograine, use all cooldowns.
+
+---
+
+### Razorfen Downs (RFD)
+**Level Range:** 37-46  
+**Location:** Barrens  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Necrotic Wand (Wand with +Shadow damage)
+
+**Boss Guide:**
+- **Tuten'kash:** Use Voidwalker, keep Corruption up.
+- **Mordresh Fire Eye:** Use Curse of Weakness, maintain DoTs.
+- **Glutton:** Tank and spank, use Life Tap for mana.
+- **Amnennar the Coldbringer:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Uldaman
+**Level Range:** 35-45  
+**Location:** Badlands  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Grimlok's Tribal Vestments (Cloth chest with +Intellect)
+
+**Boss Guide:**
+- **Revelosh:** Use Voidwalker, keep Corruption up.
+- **Ironaya:** Use Curse of Weakness, maintain DoTs.
+- **Galgann Firehammer:** Use Drain Life for healing, maintain DoTs.
+- **Archaedas:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Zul'Farrak (ZF)
+**Level Range:** 44-54  
+**Location:** Tanaris  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Robes of the Lich (Cloth chest with +Intellect/Stamina)
+
+**Boss Guide:**
+- **Antu'sul:** Use Voidwalker, keep Corruption up.
+- **Witch Doctor Zum'rah:** Fear adds, focus boss.
+- **Chief Ukorz Sandscalp:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Maraudon
+**Level Range:** 46-55  
+**Location:** Desolace  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Gizlock's Hypertech Buckler (Off-hand with +Intellect)
+
+**Boss Guide:**
+- **Noxxion:** Use Voidwalker, keep Corruption up.
+- **Lord Vyletongue:** Fear adds, focus boss.
+- **Princess Theradras:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Temple of Atal'Hakkar (Sunken Temple, ST)
+**Level Range:** 50-60  
+**Location:** Swamp of Sorrows  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Dragon's Call (Staff with +Intellect)
+
+**Boss Guide:**
+- **Jammal'an the Prophet:** Use Voidwalker, keep Corruption up.
+- **Morphaz & Hazzas:** Fear adds, focus boss.
+- **Avatar of Hakkar:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Blackrock Depths (BRD)
+**Level Range:** 52-60  
+**Location:** Blackrock Mountain  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Robes of the Royal Crown (Cloth chest with +Intellect)
+
+**Boss Guide:**
+- **High Interrogator Gerstahn:** Use Voidwalker, keep Corruption up.
+- **General Angerforge:** Use all cooldowns, keep Voidwalker tanking.
+- **Emperor Dagran Thaurissan:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Dire Maul (DM)
+**Level Range:** 55-60  
+**Location:** Feralas  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Felcloth Robe (Cloth chest with +Intellect)
+
+**Boss Guide:**
+- **Zevrim Thornhoof:** Use Voidwalker, keep Corruption up.
+- **Alzzin the Wildshaper:** Use all cooldowns, keep Voidwalker alive.
+- **Prince Tortheldrin:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Stratholme
+**Level Range:** 58-60  
+**Location:** Eastern Plaguelands  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Robes of the Exalted (Cloth chest with +Intellect)
+
+**Boss Guide:**
+- **Baroness Anastari:** Use Voidwalker, keep Corruption up.
+- **Baron Rivendare:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+### Scholomance (Scholo)
+**Level Range:** 58-60  
+**Location:** Western Plaguelands  
+**Warlock Benefits:** Cloth gear, enchanting materials
+
+**Notable Drops:**
+- Deathmist Robe (Cloth chest with +Intellect)
+
+**Boss Guide:**
+- **Kirtonos the Herald:** Use Voidwalker, keep Corruption up.
+- **Ras Frostwhisper:** Use all cooldowns, keep Voidwalker tanking.
+- **Darkmaster Gandling:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+## Buffs & Consumables Reference
+
