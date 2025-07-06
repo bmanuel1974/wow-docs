@@ -38,12 +38,6 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - 5/5 Improved Corruption (Affliction)  
 - 2/2 Improved Life Tap (Affliction)
 
-**Visit Trainer?**  
-- Yes: Learn Curse of Agony (Rank 3), Life Tap (Rank 3)
-
-**Rotation Change:**  
-- Start using Curse of Agony (Rank 3) in rotation.
-
 **Tailoring Recipes:**  
 - Silk Headband (Trainer)  
 - Azure Silk Pants (Trainer)
@@ -58,8 +52,8 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Mana Potion
 
 **Auction House Gear:**  
-- Robes with +Intellect and +Stamina  
-- Wands with highest DPS available
+- Robes of the Moccasin, Blackened Defias Robe
+- Staff of the Blessed Seer, Emberstone Staff
 
 ---
 
@@ -67,12 +61,6 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 
 **Talent Point:**  
 - 3/3 Suppression (Affliction)
-
-**Visit Trainer?**  
-- Yes: Learn Curse of Agony (Rank 4), Life Tap (Rank 4)
-
-**Rotation Change:**  
-- Use improved Curse of Agony for better DoT.
 
 **Tailoring Recipes:**  
 - Azure Silk Hood (Trainer)
@@ -85,7 +73,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Intellect
 
 **Auction House Gear:**  
-- Gloves with +Spirit and +Stamina
+- Magefist Gloves, Spider Silk Gloves
 
 ---
 
@@ -94,11 +82,8 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 **Talent Point:**  
 - 2/2 Improved Drain Soul (Affliction)
 
-**Visit Trainer?**  
-- No
-
 **Rotation Change:**  
-- Add Drain Soul to rotation for better mana regen.
+- Add Drain Soul to rotation for better mana regeneration.
 
 **Tailoring Recipes:**  
 - Silk Robe (Trainer)
@@ -110,7 +95,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Firepower
 
 **Auction House Gear:**  
-- Robes with +Spirit and +Intellect
+- Robes of the Lich, Crimson Silk Vest
 
 ---
 
@@ -135,7 +120,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Spirit
 
 **Auction House Gear:**  
-- Cloak with +Stamina and +Spirit
+- Feline Mantle, Azure Silk Cloak
 
 ---
 
@@ -143,12 +128,6 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 
 **Talent Point:**  
 - 1/2 Grim Reach (Affliction)
-
-**Visit Trainer?**  
-- No
-
-**Rotation Change:**  
-- No major change.
 
 **Tailoring Recipes:**  
 - Spider Belt (Trainer)
@@ -160,7 +139,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Wisdom
 
 **Auction House Gear:**  
-- Robes with +Intellect and +Stamina
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -171,9 +150,6 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 
 **Visit Trainer?**  
 - Yes: Learn Shadow Bolt (Rank 5), Health Funnel (Rank 3)
-
-**Rotation Change:**  
-- Use Shadow Bolt Rank 5 for better damage.
 
 **Tailoring Recipes:**  
 - Formal White Shirt (Trainer)  
@@ -187,7 +163,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Mana Potion
 
 **Auction House Gear:**  
-- Gloves with +Intellect and +Spirit
+- Illusionary Rod, Staff of the Blessed Seer
 
 ---
 
@@ -195,6 +171,9 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 
 **Talent Point:**  
 - 1/1 Siphon Life (Affliction)
+
+**Rotation Change:**  
+- Add Siphon Life to rotation for additional healing.
 
 **Tailoring Recipes:**  
 - Spider Silk Gloves (Trainer)
@@ -206,7 +185,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Wisdom
 
 **Auction House Gear:**  
-- Robes with +Spirit and +Stamina
+- Robes of the Lich, Shadoweave Gloves
 
 ---
 
@@ -228,7 +207,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Intellect
 
 **Auction House Gear:**  
-- Cloak with +Stamina and +Spirit
+- Shadoweave Shoulders, Azure Silk Cloak
 
 ---
 
@@ -247,7 +226,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Firepower
 
 **Auction House Gear:**  
-- Gloves with +Intellect and +Spirit
+- Shadoweave Gloves, Azure Silk Cloak
 
 ---
 
@@ -259,6 +238,9 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 **Visit Trainer?**  
 - Yes: Learn Immolate (Rank 4), Unending Breath
 
+**Rotation Change:**  
+- Add Unending Breath for underwater areas.
+
 **Tailoring Recipes:**  
 - Azure Silk Cloak (Trainer)
 
@@ -269,7 +251,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Robes with +Intellect and +Stamina
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -288,7 +270,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Wisdom
 
 **Auction House Gear:**  
-- Cloak with +Spirit and +Stamina
+- Shadoweave Shoulders, Feline Mantle
 
 ---
 
@@ -310,7 +292,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Spirit
 
 **Auction House Gear:**  
-- Gloves with +Intellect and +Spirit
+- Shadoweave Gloves, Magefist Gloves
 
 ---
 
@@ -329,7 +311,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Firepower
 
 **Auction House Gear:**  
-- Robes with +Intellect and +Stamina
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -351,7 +333,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Cloak with +Spirit and +Stamina
+- Shadoweave Shoulders, Azure Silk Cloak
 
 ---
 
@@ -370,7 +352,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Wisdom
 
 **Auction House Gear:**  
-- Gloves with +Intellect and +Spirit
+- Shadoweave Gloves, Crimson Silk Gloves
 
 ---
 
@@ -382,6 +364,9 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 **Visit Trainer?**  
 - Yes: Learn Shadow Bolt (Rank 6), Summon Felhunter
 
+**Rotation Change:**  
+- Add Felhunter for spell interruption and dispelling.
+
 **Tailoring Recipes:**  
 - Shadoweave Pants (Trainer, if recipe known)
 
@@ -392,7 +377,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Intellect
 
 **Auction House Gear:**  
-- Robes with +Stamina and +Spirit
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -411,7 +396,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Cloak with +Intellect and +Stamina
+- Shadoweave Shoulders, Feline Mantle
 
 ---
 
@@ -433,7 +418,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Fortitude
 
 **Auction House Gear:**  
-- Gloves with +Spirit and +Stamina
+- Shadoweave Gloves, Crimson Silk Gloves
 
 ---
 
@@ -452,7 +437,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Spirit
 
 **Auction House Gear:**  
-- Robes with +Intellect and +Stamina
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -474,7 +459,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Cloak with +Spirit and +Stamina
+- Shadoweave Shoulders, Feline Mantle
 
 ---
 
@@ -493,7 +478,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Wisdom
 
 **Auction House Gear:**  
-- Gloves with +Intellect and +Spirit
+- Shadoweave Gloves, Crimson Silk Gloves
 
 ---
 
@@ -515,7 +500,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Intellect
 
 **Auction House Gear:**  
-- Robes with +Stamina and +Spirit
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -534,7 +519,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Cloak with +Intellect and +Stamina
+- Shadoweave Shoulders, Azure Silk Cloak
 
 ---
 
@@ -556,7 +541,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Fortitude
 
 **Auction House Gear:**  
-- Gloves with +Spirit and +Stamina
+- Shadoweave Gloves, Crimson Silk Gloves
 
 ---
 
@@ -575,7 +560,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Spirit
 
 **Auction House Gear:**  
-- Robes with +Intellect and +Stamina
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -597,7 +582,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Cloak with +Spirit and +Stamina
+- Shadoweave Shoulders, Feline Mantle
 
 ---
 
@@ -616,7 +601,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Wisdom
 
 **Auction House Gear:**  
-- Gloves with +Intellect and +Spirit
+- Shadoweave Gloves, Crimson Silk Gloves
 
 ---
 
@@ -638,7 +623,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Intellect
 
 **Auction House Gear:**  
-- Robes with +Stamina and +Spirit
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -657,7 +642,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Cloak with +Intellect and +Stamina
+- Shadoweave Shoulders, Azure Silk Cloak
 
 ---
 
@@ -679,7 +664,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Fortitude
 
 **Auction House Gear:**  
-- Gloves with +Spirit and +Stamina
+- Shadoweave Gloves, Crimson Silk Gloves
 
 ---
 
@@ -698,7 +683,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Spirit
 
 **Auction House Gear:**  
-- Robes with +Intellect and +Stamina
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -720,7 +705,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Cloak with +Spirit and +Stamina
+- Shadoweave Shoulders, Feline Mantle
 
 ---
 
@@ -739,7 +724,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Wisdom
 
 **Auction House Gear:**  
-- Gloves with +Intellect and +Spirit
+- Shadoweave Gloves, Crimson Silk Gloves
 
 ---
 
@@ -761,7 +746,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Scroll of Intellect
 
 **Auction House Gear:**  
-- Robes with +Stamina and +Spirit
+- Robes of the Lich, Shadoweave Robe
 
 ---
 
@@ -780,7 +765,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Healthstone
 
 **Auction House Gear:**  
-- Cloak with +Intellect and +Stamina
+- Shadoweave Shoulders, Azure Silk Cloak
 
 ---
 
@@ -802,7 +787,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Elixir of Fortitude
 
 **Auction House Gear:**  
-- Gloves with +Spirit and +Stamina
+- Shadoweave Gloves, Crimson Silk Gloves
 
 ---
 
