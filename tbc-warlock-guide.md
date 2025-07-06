@@ -20,6 +20,7 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - [Scryers vs Aldor: Warlock Guide](#scryers-vs-aldor-warlock-guide)
 - [Pre-Raid BIS Gear](#pre-raid-bis-gear)
 - [Build Options](#build-options)
+- [TBC Raid Phases, Dungeons, and New Questing Areas](#tbc-raid-phases-dungeons-and-new-questing-areas)
 
 ---
 
@@ -885,4 +886,94 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - Destruction is better for PvP and group content
 - Hybrid builds offer flexibility but are less optimal
 
---- 
+---
+
+## 📅 TBC Raid Phases, Dungeons, and New Questing Areas
+
+### Phase 1: Launch (June 2007)
+- **Raids Open:**
+  - Karazhan
+  - Gruul's Lair
+  - Magtheridon's Lair
+- **Dungeons:** All Outland dungeons available at launch (Hellfire Citadel, Coilfang Reservoir, Auchindoun, Tempest Keep, Caverns of Time)
+- **Questing Areas:**
+  - All Outland zones (Hellfire Peninsula, Zangarmarsh, Terokkar Forest, Nagrand, Blade's Edge Mountains, Netherstorm, Shadowmoon Valley)
+  - **Notable Warlock Items:**
+    - [The Bringer of Death](https://tbc.wowhead.com/item=31336/the-bringer-of-death) (World Drop)
+    - [Spellfire Set](https://tbc.wowhead.com/itemset=201/spellfire-set) (Tailoring)
+    - [Shadoweave Set](https://tbc.wowhead.com/itemset=544/shadoweave-set) (Tailoring)
+    - Various quest rewards with spell power and stamina
+
+### Phase 2: Serpentshrine Cavern & Tempest Keep (September 2007)
+- **Raids Open:**
+  - Serpentshrine Cavern (SSC)
+  - Tempest Keep: The Eye
+- **Dungeons:** No new dungeons
+- **Questing Areas:** No new questing zones
+- **Notable Items:**
+  - Tier 5 set pieces and powerful caster trinkets/weapons from raids
+
+### Phase 3: Battle for Mount Hyjal & Black Temple (May 2008)
+- **Raids Open:**
+  - The Battle for Mount Hyjal
+  - Black Temple
+- **Dungeons:** No new dungeons
+- **Questing Areas:** No new questing zones
+- **Notable Items:**
+  - Tier 6 set pieces, legendary weapons (Warglaives), and high-end caster gear
+
+### Phase 4: Zul'Aman (November 2008)
+- **Raids Open:**
+  - Zul'Aman (10-man raid)
+- **Dungeons:** No new dungeons
+- **Questing Areas:** No new questing zones
+- **Notable Items:**
+  - Unique caster trinkets and weapons from Zul'Aman
+
+### Phase 5: Sunwell Plateau (March 2009)
+- **Raids Open:**
+  - Sunwell Plateau
+- **Dungeons:** No new dungeons
+- **Questing Areas:**
+  - **Isle of Quel'Danas** introduced as a new daily quest hub
+  - **Notable Warlock Items:**
+    - [Badge of Justice](https://tbc.wowhead.com/item=29434/badge-of-justice) vendor gear upgrades
+    - [Sunfire Robe](https://tbc.wowhead.com/item=34364/sunfire-robe) (Tailoring pattern from Sunwell Plateau)
+    - [Sunfire Handwraps](https://tbc.wowhead.com/item=34366/sunfire-handwraps) (Tailoring pattern from Sunwell Plateau)
+    - Various epic quest rewards and reputation items
+
+### ⏳ Estimated TBC Phase Durations (Based on WoW Classic)
+
+The original WoW Classic (2019–2021) phases lasted between 2 and 4 months each, with later phases sometimes lasting longer (up to 5–6 months). TBC Classic is expected to follow a similar cadence:
+
+| Phase | Raids Opened                | Estimated Duration |
+|-------|-----------------------------|-------------------|
+| 1     | Karazhan, Gruul, Magtheridon| 2–3 months        |
+| 2     | SSC, Tempest Keep           | 2–3 months        |
+| 3     | Hyjal, Black Temple         | 3–4 months        |
+| 4     | Zul'Aman                    | 3–4 months        |
+| 5     | Sunwell Plateau             | 4–5 months        |
+
+**Notes:**
+- These estimates are based on the actual release schedule of WoW Classic phases.
+- Later phases (especially Sunwell) may last longer to allow players to experience endgame content.
+- Blizzard may adjust phase timing based on player feedback and progression.
+
+---
+
+**Summary Table:**
+
+| Phase | Raids Opened | New Dungeons | New Questing Areas | Notable Warlock Items |
+|-------|--------------|--------------|--------------------|-----------------------|
+| 1     | Karazhan, Gruul, Magtheridon | All Outland dungeons | All Outland zones | Spellfire/Shadoweave Sets, The Bringer of Death |
+| 2     | SSC, Tempest Keep | None | None | Tier 5, raid caster gear |
+| 3     | Hyjal, Black Temple | None | None | Tier 6, legendary weapons |
+| 4     | Zul'Aman | None | None | Unique caster trinkets/weapons |
+| 5     | Sunwell Plateau | None | Isle of Quel'Danas | Sunfire Robe/Handwraps, Badge gear |
+
+---
+
+**Note:**
+- All heroic dungeons are available from launch.
+- Isle of Quel'Danas (Phase 5) is the only new questing area added post-launch, with valuable daily quests and reputation rewards for Warlocks.
+- Most new items for Warlocks in later phases come from raids or badge/reputation vendors. 
