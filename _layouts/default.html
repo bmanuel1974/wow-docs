@@ -1,0 +1,37 @@
+---
+layout: null
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- if site.description -%}
+    <meta name="description" content="{{ site.description | escape }}">
+    {%- endif -%}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {%- if site.minima and site.minima.skin -%}
+    <link rel="stylesheet" href="{{ '/assets/css/minima-' | append: site.minima.skin | append: '.css' | relative_url }}">
+    {%- endif -%}
+    {%- feed_meta -%}
+    {%- seo -%}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></h1>
+        <h2>{{ site.description }}</h2>
+      </div>
+    </header>
+    <main class="container">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title | escape }}</p>
+      </div>
+    </footer>
+  </body>
+</html>

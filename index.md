@@ -3,8 +3,6 @@ layout: default
 title: "WoW Classic Warlock Leveling Guide"
 ---
 
-<div class="container">
-
 # 🧙 Warlock Leveling & Dungeon Guide (Classic – Level 25+)
 
 ## For Warlocks leveling 25–60 in WoW Classic
@@ -184,5 +182,3 @@ Each rotation is optimized for solo questing, dungeons, and PvP server survival.
 <footer>
 Last updated: July 2025 &mdash; Guide by <a href="https://github.com/yourusername">yourusername</a> | <a href="https://classic.wowhead.com/">Wowhead</a>
 </footer>
-
-</div>

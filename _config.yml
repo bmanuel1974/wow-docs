@@ -3,6 +3,5 @@ title: Warlock TBC Classic Guide
 theme: minima
 
 minima:
-  skin: classic
   custom_css:
     - assets/css/style.css
