@@ -13,15 +13,14 @@ A comprehensive, step-by-step guide for efficient solo and dungeon leveling as a
 
 ## 📑 Table of Contents
 
-- [Introduction](#introduction)
-- [Level-by-Level Guide](#level-by-level-guide)
-- [Dungeon Guide](#dungeon-guide)
+- [Introduction](#-introduction)
+- [Level-by-Level Guide](#️-level-by-level-guide)
+- [Dungeon Guide](#-dungeon-guide)
+- [Professions Leveling Guide](#-professions-leveling-guide)
+- [Optimal Rotations](#-optimal-rotations)
+- [Useful Macros](#️-useful-macros)
+- [Build Options](#-build-options)
 - [Buffs & Consumables Reference](#buffs--consumables-reference)
-- [Auction House Gear Reference](#auction-house-gear-reference)
-- [Professions Leveling Guide](#professions-leveling-guide)
-- [Professions Reference](#professions-reference)
-- [Optimal Rotations](#optimal-rotations)
-- [Quick Tips](#quick-tips)
 
 ---
 
