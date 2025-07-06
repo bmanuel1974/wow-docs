@@ -1563,5 +1563,149 @@ Cooking is useful for self-healing and buffs.
 
 ---
 
+## 🌟 Build Options
+
+### Build 1: Affliction-Focused Leveling (Recommended)
+**Talent Distribution:** 31 Affliction / 20 Demonology
+
+**Affliction Tree (31 points):**
+- **5/5 Improved Corruption** - Reduces cast time by 1 second, essential for efficient DoT application
+- **2/2 Improved Life Tap** - Reduces mana cost by 10%, crucial for mana management
+- **3/3 Suppression** - Reduces chance to resist by 6%, improves reliability
+- **2/2 Improved Drain Soul** - Provides 100% mana regeneration when target dies, excellent for sustain
+- **1/1 Amplify Curse** - Increases curse damage by 50%, massive damage boost
+- **2/2 Grim Reach** - Increases range by 20%, improves safety and kiting
+- **1/1 Siphon Life** - Heals you while dealing damage, provides sustain
+- **3/3 Shadow Mastery** - Increases shadow damage by 15%, significant DPS boost
+- **1/1 Dark Pact** - Drains pet mana for your use, excellent utility
+
+**Demonology Tree (20 points):**
+- **5/5 Demonic Embrace** - Increases stamina by 15%, improves survival
+- **5/5 Fel Intellect** - Increases pet intellect by 15%, improves pet performance
+- **1/1 Improved Felhunter** - Reduces cooldown by 30%, better utility
+- **1/1 Improved Succubus** - Increases damage by 25%, better DPS pet
+- **1/1 Improved Voidwalker** - Increases health by 20%, better tanking
+
+**Why This Build:**
+- Maximizes DoT damage and efficiency
+- Excellent mana management through Life Tap and Drain Soul
+- Strong pet support for solo play
+- Great sustain through Siphon Life and Dark Pact
+
+---
+
+### Build 2: Demonology-Focused Leveling
+**Talent Distribution:** 31 Demonology / 20 Affliction
+
+**Demonology Tree (31 points):**
+- **5/5 Demonic Embrace** - Increases stamina by 15%, better survival
+- **5/5 Fel Intellect** - Increases pet intellect by 15%, better pet performance
+- **1/1 Improved Felhunter** - Reduces cooldown by 30%, better utility
+- **1/1 Improved Succubus** - Increases damage by 25%, better DPS pet
+- **1/1 Improved Voidwalker** - Increases health by 20%, better tanking
+- **5/5 Unholy Power** - Increases pet damage by 20%, significant DPS boost
+- **1/1 Master Summoner** - Reduces summon time by 4 seconds, better utility
+- **5/5 Demonic Sacrifice** - Sacrifices pet for buffs, situational but powerful
+- **1/1 Soul Link** - Links you to pet, sharing damage and providing survival
+
+**Affliction Tree (20 points):**
+- **5/5 Improved Corruption** - Reduces cast time by 1 second, essential DoT
+- **2/2 Improved Life Tap** - Reduces mana cost by 10%, mana management
+- **3/3 Suppression** - Reduces chance to resist by 6%, reliability
+- **2/2 Improved Drain Soul** - Provides 100% mana regeneration, sustain
+- **1/1 Amplify Curse** - Increases curse damage by 50%, damage boost
+- **2/2 Grim Reach** - Increases range by 20%, safety
+- **1/1 Siphon Life** - Heals while dealing damage, sustain
+
+**Why This Build:**
+- Maximizes pet effectiveness and survival
+- Strong solo play with Soul Link
+- Good utility through pet abilities
+- Solid DoT damage from Affliction points
+
+---
+
+### Build 3: Destruction-Focused Leveling
+**Talent Distribution:** 31 Destruction / 20 Affliction
+
+**Destruction Tree (31 points):**
+- **5/5 Improved Shadow Bolt** - Reduces cast time by 0.5 seconds, faster casting
+- **5/5 Cataclysm** - Reduces mana cost by 5%, mana efficiency
+- **1/1 Bane** - Reduces cast time by 0.1 seconds, slight improvement
+- **5/5 Aftermath** - 10% chance to stun for 3 seconds, crowd control
+- **1/1 Improved Firebolt** - Reduces cast time by 0.5 seconds, pet damage
+- **5/5 Devastation** - Increases critical strike chance by 5%, more damage
+- **1/1 Shadowburn** - Instant damage spell, excellent finisher
+- **5/5 Intensity** - 70% chance to avoid interruption, better casting
+- **1/1 Destructive Reach** - Increases range by 20%, safety
+- **1/1 Improved Searing Pain** - Reduces threat by 50%, better group play
+
+**Affliction Tree (20 points):**
+- **5/5 Improved Corruption** - Reduces cast time by 1 second, essential DoT
+- **2/2 Improved Life Tap** - Reduces mana cost by 10%, mana management
+- **3/3 Suppression** - Reduces chance to resist by 6%, reliability
+- **2/2 Improved Drain Soul** - Provides 100% mana regeneration, sustain
+- **1/1 Amplify Curse** - Increases curse damage by 50%, damage boost
+- **2/2 Grim Reach** - Increases range by 20%, safety
+- **1/1 Siphon Life** - Heals while dealing damage, sustain
+
+**Why This Build:**
+- Maximizes direct damage output
+- Better for group play and dungeons
+- Strong burst damage with Shadowburn
+- Good crowd control with Aftermath
+
+---
+
+### Build 4: Hybrid Leveling Build
+**Talent Distribution:** 21 Affliction / 20 Demonology / 10 Destruction
+
+**Affliction Tree (21 points):**
+- **5/5 Improved Corruption** - Reduces cast time by 1 second, essential DoT
+- **2/2 Improved Life Tap** - Reduces mana cost by 10%, mana management
+- **3/3 Suppression** - Reduces chance to resist by 6%, reliability
+- **2/2 Improved Drain Soul** - Provides 100% mana regeneration, sustain
+- **1/1 Amplify Curse** - Increases curse damage by 50%, damage boost
+- **2/2 Grim Reach** - Increases range by 20%, safety
+- **1/1 Siphon Life** - Heals while dealing damage, sustain
+- **3/3 Shadow Mastery** - Increases shadow damage by 15%, DPS boost
+- **1/1 Dark Pact** - Drains pet mana for your use, utility
+
+**Demonology Tree (20 points):**
+- **5/5 Demonic Embrace** - Increases stamina by 15%, survival
+- **5/5 Fel Intellect** - Increases pet intellect by 15%, pet performance
+- **1/1 Improved Felhunter** - Reduces cooldown by 30%, utility
+- **1/1 Improved Succubus** - Increases damage by 25%, DPS pet
+- **1/1 Improved Voidwalker** - Increases health by 20%, tanking
+- **5/5 Unholy Power** - Increases pet damage by 20%, DPS boost
+- **1/1 Master Summoner** - Reduces summon time by 4 seconds, utility
+
+**Destruction Tree (10 points):**
+- **5/5 Improved Shadow Bolt** - Reduces cast time by 0.5 seconds, faster casting
+- **5/5 Cataclysm** - Reduces mana cost by 5%, mana efficiency
+
+**Why This Build:**
+- Balanced approach to leveling
+- Good DoT damage and pet support
+- Improved casting speed for Shadow Bolt
+- Versatile for different playstyles
+
+---
+
+### Build Recommendations by Level Range
+
+**Level 25-40:** Start with Affliction build for DoT efficiency
+**Level 40-50:** Consider Demonology for better pet performance
+**Level 50-60:** Can switch to Destruction for more direct damage
+**Level 60:** Respec based on intended endgame content
+
+**General Tips:**
+- Affliction is generally best for solo leveling
+- Demonology is great for pet-heavy playstyles
+- Destruction is better for group content
+- Hybrid builds offer flexibility but may be less optimal
+
+---
+
 ## Buffs & Consumables Reference
 
