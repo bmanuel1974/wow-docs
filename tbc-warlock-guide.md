@@ -36,6 +36,19 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - Arrival in Outland
 - Disrupt Their Reinforcements
 
+**Dungeon Quests:**
+
+**Hellfire Ramparts:**
+- **"The Heart of Darkness"** - Questgiver: Nazgrel (Thrallmar)
+- **"The Path of Glory"** - Questgiver: Nazgrel (Thrallmar)
+- **"The Path of Glory"** - Questgiver: Lieutenant General Orion (Honor Hold)
+
+**Blood Furnace:**
+- **"The Blood is Life"** - Questgiver: Nazgrel (Thrallmar)
+- **"The Blood is Life"** - Questgiver: Lieutenant General Orion (Honor Hold)
+- **"Heart of Rage"** - Questgiver: Nazgrel (Thrallmar)
+- **"Heart of Rage"** - Questgiver: Lieutenant General Orion (Honor Hold)
+
 **Dungeon Focus:**
 - **Hellfire Ramparts:** 3 runs for gear and experience
 - **Blood Furnace:** 2-3 runs for gear and experience
@@ -56,6 +69,18 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - The Umbrafen Tribe
 - Plants of Zangarmarsh
 - The Dying Balance
+
+**Dungeon Quests:**
+
+**Slave Pens:**
+- **"Lost in Action"** - Questgiver: Ikeyen (Cenarion Refuge)
+- **"The Dying Balance"** - Questgiver: Lethyn Moonfire (Cenarion Refuge)
+- **"Waste Not, Want Not"** - Questgiver: Ikeyen (Cenarion Refuge)
+
+**Underbog:**
+- **"The Dying Balance"** - Questgiver: Lethyn Moonfire (Cenarion Refuge)
+- **"Waste Not, Want Not"** - Questgiver: Ikeyen (Cenarion Refuge)
+- **"The Umbrafen Tribe"** - Questgiver: Ikeyen (Cenarion Refuge)
 
 **Dungeon Focus:**
 - **Slave Pens:** 3-4 runs for gear and experience
@@ -78,6 +103,18 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - The Infested Protectors
 - The Fallen Exarch
 
+**Dungeon Quests:**
+
+**Mana-Tombs:**
+- **"The Consortium Needs You!"** - Questgiver: Nexus-Prince Haramad (Shattrath City)
+- **"The Infested Protectors"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Eyes of Skettis"** - Questgiver: Rilak the Redeemed (Shattrath City)
+
+**Auchenai Crypts:**
+- **"The Fallen Exarch"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Infested Protectors"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Eyes of Skettis"** - Questgiver: Rilak the Redeemed (Shattrath City)
+
 **Dungeon Focus:**
 - **Mana-Tombs:** 3-4 runs for gear and experience
 - **Auchenai Crypts:** 2-3 runs for gear and experience
@@ -98,6 +135,18 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - The Consortium Needs You!
 - The Ultimate Bloodsport
 - The Ring of Blood
+
+**Dungeon Quests:**
+
+**Sethekk Halls:**
+- **"The Eyes of Skettis"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Infested Protectors"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Fallen Exarch"** - Questgiver: Rilak the Redeemed (Shattrath City)
+
+**Shadow Labyrinth:**
+- **"The Eyes of Skettis"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Infested Protectors"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Fallen Exarch"** - Questgiver: Rilak the Redeemed (Shattrath City)
 
 **Dungeon Focus:**
 - **Sethekk Halls:** 3-4 runs for gear and experience
@@ -120,6 +169,23 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - The Cudgel of Kar'desh
 - The Consortium
 - The Stormspire
+
+**Dungeon Quests:**
+
+**Steamvault:**
+- **"The Consortium Needs You!"** - Questgiver: Nexus-Prince Haramad (Shattrath City)
+- **"The Infested Protectors"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Eyes of Skettis"** - Questgiver: Rilak the Redeemed (Shattrath City)
+
+**Shattered Halls:**
+- **"The Heart of Darkness"** - Questgiver: Nazgrel (Thrallmar)
+- **"The Path of Glory"** - Questgiver: Nazgrel (Thrallmar)
+- **"The Blood is Life"** - Questgiver: Nazgrel (Thrallmar)
+
+**Arcatraz:**
+- **"The Consortium Needs You!"** - Questgiver: Nexus-Prince Haramad (Shattrath City)
+- **"The Infested Protectors"** - Questgiver: Rilak the Redeemed (Shattrath City)
+- **"The Eyes of Skettis"** - Questgiver: Rilak the Redeemed (Shattrath City)
 
 **Dungeon Focus:**
 - **Steamvault:** 2-3 runs for gear
