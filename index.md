@@ -1,12 +1,97 @@
-# 🧙 Warlock Leveling & Dungeon Guide (TBC Classic – Level 60–70)
+---
+layout: default
+title: "WoW Classic Warlock Leveling Guide"
+---
 
-...
+<div class="container">
 
-## 🔁 Optimal Warlock Rotations by Build
+# 🧙 Warlock Leveling & Dungeon Guide (Classic – Level 25+)
 
-Each rotation is optimized for solo questing, dungeons, and PvP server survival.
+## For Warlocks leveling 25–60 in WoW Classic
+
+A comprehensive, step-by-step guide for efficient solo and dungeon leveling as a Warlock. Includes talent builds, rotations, dungeon tips, profession advice, and gear recommendations.
 
 ---
+
+## 📑 Table of Contents
+
+- [Introduction](#introduction)
+- [Level-by-Level Guide](#level-by-level-guide)
+- [Dungeon Guide](#dungeon-guide)
+- [Buffs & Consumables Reference](#buffs--consumables-reference)
+- [Auction House Gear Reference](#auction-house-gear-reference)
+- [Professions Reference](#professions-reference)
+- [Optimal Rotations](#optimal-rotations)
+- [Quick Tips](#quick-tips)
+
+---
+
+## 📝 Introduction
+
+This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo questing, dungeons, and PvP server survival. Use the Table of Contents to jump to any section.
+
+---
+
+## 🗺️ Level-by-Level Guide
+
+<!--
+For each level (starting at 25), include:
+- Talent point allocation
+- Trainer visit info
+- Rotation changes
+- Professions: Tailoring/Enchanting recipes
+- Buffs & consumables
+- Auction house gear
+-->
+
+*Coming soon: Detailed level-by-level breakdown!*
+
+---
+
+## 🏰 Dungeon Guide
+
+<!--
+For each dungeon (only at the first eligible level), include:
+- Name, level range, location, estimated run time, notable drops
+-->
+
+*Coming soon: Dungeon details and loot tables!*
+
+---
+
+## 🧪 Buffs & Consumables Reference
+
+<!--
+Table or list of recommended items.
+-->
+
+*Coming soon: Buffs and consumables tables!*
+
+---
+
+## 🛒 Auction House Gear Reference
+
+<!--
+Table of recommended green gear.
+-->
+
+*Coming soon: Auction house gear recommendations!*
+
+---
+
+## 🧵 Professions Reference
+
+<!--
+Key recipes and enchants for Tailoring/Enchanting.
+-->
+
+*Coming soon: Professions tips and recipes!*
+
+---
+
+## 🔁 Optimal Rotations
+
+Each rotation is optimized for solo questing, dungeons, and PvP server survival.
 
 ### 🧱 Affliction Rotation (41/0/20)
 
@@ -38,7 +123,7 @@ Each rotation is optimized for solo questing, dungeons, and PvP server survival.
 4. **Shadowburn** for finish
 5. Use **Life Tap** + **Drain Life** to recover
 
-#### � Packs of Mobs
+#### 🔥 Packs of Mobs
 1. Tag with **Corruption**
 2. **Felguard Cleave** on cooldown
 3. Cast **Seed of Corruption** (3+ mobs)
@@ -87,10 +172,17 @@ Each rotation is optimized for solo questing, dungeons, and PvP server survival.
 
 ---
 
-### � Quick Tips
+## 💡 Quick Tips
+
 - **Wand Finishers**: Save mana on mobs <15% HP
 - **Soulshatter**: Always use in dungeon AoE if you’re topping threat
 - **Dark Pact**: Best for Affliction with Imp/Felhunter
 - **Shadowburn**: Instant execute – keep shards ready
 
 ---
+
+<footer>
+Last updated: July 2025 &mdash; Guide by <a href="https://github.com/yourusername">yourusername</a> | <a href="https://classic.wowhead.com/">Wowhead</a>
+</footer>
+
+</div>
