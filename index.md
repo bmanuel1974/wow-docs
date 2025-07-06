@@ -1204,5 +1204,187 @@ Cooking is useful for self-healing and buffs.
 
 ---
 
+## ⚡ Optimal Rotations
+
+### Level 1-3: Basic Start
+**Available Spells:** Shadow Bolt (Rank 1)
+**Rotation:** Shadow Bolt → Wand until dead
+**Notes:** Simple single-target damage, use wand when out of mana
+
+---
+
+### Level 4-5: Corruption Introduction
+**New Spell:** Corruption (Rank 1)
+**Rotation:** Corruption → Shadow Bolt → Wand until dead
+**Notes:** Corruption provides consistent DoT damage
+
+---
+
+### Level 6-9: Life Tap Introduction
+**New Spell:** Life Tap (Rank 1)
+**Rotation:** Corruption → Shadow Bolt → Life Tap (if low mana) → Wand
+**Notes:** Life Tap allows for more spell casting
+
+---
+
+### Level 10-11: Curse of Weakness Introduction
+**New Spell:** Curse of Weakness (Rank 1)
+**Rotation:** Curse of Weakness → Corruption → Shadow Bolt → Life Tap (if needed) → Wand
+**Notes:** Curse of Weakness reduces enemy damage and increases survival
+
+---
+
+### Level 12-13: Fear Introduction
+**New Spell:** Fear (Rank 1)
+**Rotation:** Fear (if multiple mobs) → Curse of Weakness → Corruption → Shadow Bolt → Life Tap → Wand
+**Notes:** Fear provides crowd control for multiple enemies
+
+---
+
+### Level 14-15: Drain Life Introduction
+**New Spell:** Drain Life (Rank 1)
+**Rotation:** Curse of Weakness → Corruption → Drain Life (if health low) → Shadow Bolt → Life Tap → Wand
+**Notes:** Drain Life provides self-healing while dealing damage
+
+---
+
+### Level 16-17: Curse of Agony Introduction
+**New Spell:** Curse of Agony (Rank 1)
+**Rotation:** Curse of Agony → Corruption → Shadow Bolt → Life Tap (if needed) → Wand
+**Notes:** Curse of Agony becomes your primary DoT
+
+---
+
+### Level 18-19: Immolate Introduction
+**New Spell:** Immolate (Rank 1)
+**Rotation:** Immolate → Curse of Agony → Corruption → Shadow Bolt → Life Tap → Wand
+**Notes:** Immolate provides additional DoT damage
+
+---
+
+### Level 20-21: Voidwalker Introduction
+**New Pet:** Voidwalker
+**Rotation:** Send Voidwalker → Curse of Agony → Corruption → Immolate → Shadow Bolt → Life Tap → Wand
+**Notes:** Voidwalker tanks while you cast spells safely
+
+---
+
+### Level 22-23: Drain Soul Introduction
+**New Spell:** Drain Soul (Rank 1)
+**Rotation:** Send Voidwalker → Curse of Agony → Corruption → Immolate → Shadow Bolt → Drain Soul (if mob low health) → Life Tap
+**Notes:** Drain Soul provides mana regeneration on killing blows
+
+---
+
+### Level 24-25: Health Funnel Introduction
+**New Spell:** Health Funnel (Rank 1)
+**Rotation:** Send Voidwalker → Curse of Agony → Corruption → Immolate → Shadow Bolt → Health Funnel (if Voidwalker low) → Life Tap
+**Notes:** Health Funnel keeps your Voidwalker alive
+
+---
+
+### Level 26-27: Drain Mana Introduction
+**New Spell:** Drain Mana (Rank 1)
+**Rotation:** Send Voidwalker → Curse of Agony → Corruption → Immolate → Shadow Bolt → Drain Mana (on casters) → Life Tap
+**Notes:** Drain Mana is situational against enemy casters
+
+---
+
+### Level 28-29: Amplify Curse Introduction
+**New Spell:** Amplify Curse
+**Rotation:** Amplify Curse → Curse of Agony → Corruption → Immolate → Shadow Bolt → Life Tap
+**Notes:** Amplify Curse increases DoT damage significantly
+
+---
+
+### Level 30-31: Siphon Life Introduction
+**New Spell:** Siphon Life (Rank 1)
+**Rotation:** Siphon Life → Curse of Agony → Corruption → Immolate → Shadow Bolt → Life Tap
+**Notes:** Siphon Life provides additional healing over time
+
+---
+
+### Level 32-33: Felhunter Introduction
+**New Pet:** Felhunter
+**Rotation:** Send Felhunter → Siphon Life → Curse of Agony → Corruption → Immolate → Shadow Bolt → Life Tap
+**Notes:** Felhunter provides spell interruption and dispelling
+
+---
+
+### Level 34-35: Unending Breath Introduction
+**New Spell:** Unending Breath
+**Rotation:** Same as before, Unending Breath is utility only
+**Notes:** Unending Breath is situational for underwater areas
+
+---
+
+### Level 36-37: Succubus Introduction
+**New Pet:** Succubus
+**Rotation:** Send Succubus → Siphon Life → Curse of Agony → Corruption → Immolate → Shadow Bolt → Life Tap
+**Notes:** Succubus provides additional damage and Seduction for crowd control
+
+---
+
+### Level 38-39: Create Healthstone Introduction
+**New Spell:** Create Healthstone (Rank 1)
+**Rotation:** Same as before, Create Healthstone is utility only
+**Notes:** Always keep Healthstones available for emergency healing
+
+---
+
+### Level 40-41: Summon Dreadsteed Introduction
+**New Spell:** Summon Dreadsteed
+**Rotation:** Same as before, Summon Dreadsteed is utility only
+**Notes:** Provides faster travel between quest areas
+
+---
+
+### Level 42-43: Ritual of Doom Introduction
+**New Spell:** Ritual of Doom
+**Rotation:** Same as before, Ritual of Doom is utility only
+**Notes:** Used to summon Infernal, very situational
+
+---
+
+### Level 44-45: Infernal Introduction
+**New Pet:** Infernal
+**Rotation:** Summon Infernal → Siphon Life → Curse of Agony → Corruption → Immolate → Shadow Bolt → Life Tap
+**Notes:** Infernal provides massive AoE damage but has long cooldown
+
+---
+
+### Level 46-60: Endgame Rotations
+**Available Spells:** All spells and pets
+**Standard Rotation:** Send Pet → Siphon Life → Curse of Agony → Corruption → Immolate → Shadow Bolt → Life Tap
+**AoE Rotation:** Send Pet → Immolate → Corruption → Hellfire (if safe) → Life Tap
+**Boss Rotation:** Amplify Curse → Curse of Agony → Siphon Life → Corruption → Immolate → Shadow Bolt spam → Life Tap
+
+---
+
+### Advanced Rotation Tips
+
+**Pet Management:**
+- **Voidwalker:** Use for tanking and solo play
+- **Felhunter:** Use against casters and in PvP
+- **Succubus:** Use for additional damage and crowd control
+- **Infernal:** Use for AoE situations and emergencies
+
+**Mana Management:**
+- Use Life Tap when below 50% mana
+- Use Drain Soul on low health enemies for mana regeneration
+- Use Healthstones after Life Tap for healing
+
+**Crowd Control:**
+- Use Fear for single target CC
+- Use Succubus Seduction for additional CC
+- Use Amplify Curse before Curse of Agony on tough enemies
+
+**Situational Spells:**
+- **Drain Mana:** Use against enemy casters
+- **Unending Breath:** Use in underwater areas
+- **Ritual of Doom:** Use for Infernal summoning
+
+---
+
 ## Buffs & Consumables Reference
 
