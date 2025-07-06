@@ -632,72 +632,84 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 ## ⚔️ Pre-Raid BIS Gear
 
 ### Head
-- **BIS:** [Hood of the Avatar](https://tbc.wowhead.com/item=31056/hood-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Spellfire Hood](https://tbc.wowhead.com/item=21846/spellfire-hood) (Tailoring crafted)
+1. [Spellfire Hood](https://tbc.wowhead.com/item=21846/spellfire-hood) (Tailoring - Scryers Honored)
+2. [Mana-Etched Crown](https://tbc.wowhead.com/item=28193/mana-etched-crown) (Sethekk Halls)
+3. [Incanter's Cowl](https://tbc.wowhead.com/item=28278/incanters-cowl) (The Mechanar)
+4. [Shadoweave Mask](https://tbc.wowhead.com/item=21846/shadoweave-mask) (Tailoring)
 
 ### Neck
-- **BIS:** [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) (Karazhan - Attumen)
-- **Alternative:** [Choker of Vile Intent](https://tbc.wowhead.com/item=29382/choker-of-vile-intent) (Heroic Shadow Labyrinth)
+1. [Choker of Vile Intent](https://tbc.wowhead.com/item=29381/choker-of-vile-intent) (Heroic Shadow Labyrinth)
+2. [Brooch of Heightened Potential](https://tbc.wowhead.com/item=28134/brooch-of-heightened-potential) (The Steamvault)
+3. [Warp Engineer's Prismatic Chain](https://tbc.wowhead.com/item=31338/warp-engineers-prismatic-chain) (The Botanica)
 
 ### Shoulders
-- **BIS:** [Mantle of the Avatar](https://tbc.wowhead.com/item=31060/mantle-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Spellfire Shoulders](https://tbc.wowhead.com/item=21872/spellfire-shoulders) (Tailoring crafted)
+1. [Spellfire Shoulders](https://tbc.wowhead.com/item=21869/spellfire-shoulders) (Tailoring - Scryers Revered)
+2. [Mana-Etched Spaulders](https://tbc.wowhead.com/item=27796/mana-etched-spaulders) (The Mechanar)
+3. [Shroud of the Inciter](https://tbc.wowhead.com/item=27778/shroud-of-the-inciter) (Shadow Labyrinth)
+4. [Shadoweave Shoulders](https://tbc.wowhead.com/item=21869/shadoweave-shoulders) (Tailoring)
 
 ### Back
-- **BIS:** [Cloak of the Avatar](https://tbc.wowhead.com/item=31058/cloak-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Cloak of the Burning Acolyte](https://tbc.wowhead.com/item=29385/cloak-of-the-burning-acolyte) (Heroic Blood Furnace)
+1. [Cloak of Woven Energy](https://tbc.wowhead.com/item=27981/cloak-of-woven-energy) (The Steamvault)
+2. [Cloak of the Inciter](https://tbc.wowhead.com/item=27878/cloak-of-the-inciter) (Shadow Labyrinth)
+3. [Cloak of the Black Void](https://tbc.wowhead.com/item=24252/cloak-of-the-black-void) (Tailoring)
 
 ### Chest
-- **BIS:** [Robes of the Avatar](https://tbc.wowhead.com/item=31057/robes-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Spellfire Robe](https://tbc.wowhead.com/item=21871/spellfire-robe) (Tailoring crafted)
+1. [Spellfire Robe](https://tbc.wowhead.com/item=21871/spellfire-robe) (Tailoring - Scryers Revered)
+2. [Robe of the Crimson Order](https://tbc.wowhead.com/item=28232/robe-of-the-crimson-order) (Heroic Sethekk Halls)
+3. [Incanter's Robe](https://tbc.wowhead.com/item=28229/incanters-robe) (The Botanica)
+4. [Shadoweave Robe](https://tbc.wowhead.com/item=21868/shadoweave-robe) (Tailoring)
 
 ### Wrists
-- **BIS:** [Bracers of the Avatar](https://tbc.wowhead.com/item=31055/bracers-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Bracers of Havok](https://tbc.wowhead.com/item=29387/bracers-of-havok) (Heroic Steamvault)
+1. [Bracers of Havok](https://tbc.wowhead.com/item=24250/bracers-of-havok) (Tailoring)
+2. [Manacles of Remembrance](https://tbc.wowhead.com/item=29240/manacles-of-remembrance) (Heroic Old Hillsbrad)
+3. [Bands of Nefarious Deeds](https://tbc.wowhead.com/item=28515/bands-of-nefarious-deeds) (The Arcatraz)
 
 ### Hands
-- **BIS:** [Gloves of the Avatar](https://tbc.wowhead.com/item=31054/gloves-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Spellfire Gloves](https://tbc.wowhead.com/item=21870/spellfire-gloves) (Tailoring crafted)
+1. [Spellfire Gloves](https://tbc.wowhead.com/item=21863/spellfire-gloves) (Tailoring - Scryers Honored)
+2. [Mana-Etched Gloves](https://tbc.wowhead.com/item=27465/mana-etched-gloves) (The Steamvault)
+3. [Gloves of the Deadwatcher](https://tbc.wowhead.com/item=27508/gloves-of-the-deadwatcher) (The Underbog)
+4. [Shadoweave Gloves](https://tbc.wowhead.com/item=21869/shadoweave-gloves) (Tailoring)
 
 ### Waist
-- **BIS:** [Belt of the Avatar](https://tbc.wowhead.com/item=31052/belt-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Spellfire Belt](https://tbc.wowhead.com/item=21869/spellfire-belt) (Tailoring crafted)
+1. [Girdle of Ruination](https://tbc.wowhead.com/item=24256/girdle-of-ruination) (Tailoring)
+2. [Mana-Etched Belt](https://tbc.wowhead.com/item=27907/mana-etched-belt) (The Steamvault)
+3. [Belt of the Black Eagle](https://tbc.wowhead.com/item=27795/belt-of-the-black-eagle) (The Mechanar)
 
 ### Legs
-- **BIS:** [Leggings of the Avatar](https://tbc.wowhead.com/item=31053/leggings-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Spellfire Pants](https://tbc.wowhead.com/item=21850/spellfire-pants) (Tailoring crafted)
+1. [Spellfire Pants](https://tbc.wowhead.com/item=21852/spellfire-pants) (Tailoring - Scryers Honored)
+2. [Incanter's Trousers](https://tbc.wowhead.com/item=28212/incanters-trousers) (The Mechanar)
+3. [Mana-Etched Pantaloons](https://tbc.wowhead.com/item=28185/mana-etched-pantaloons) (The Botanica)
+4. [Shadoweave Pants](https://tbc.wowhead.com/item=21870/shadoweave-pants) (Tailoring)
 
 ### Feet
-- **BIS:** [Boots of the Avatar](https://tbc.wowhead.com/item=31051/boots-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Boots of the Burning Acolyte](https://tbc.wowhead.com/item=29386/boots-of-the-burning-acolyte) (Heroic Blood Furnace)
+1. [Boots of Blasphemy](https://tbc.wowhead.com/item=28406/boots-of-blasphemy) (The Mechanar)
+2. [Mana-Etched Slippers](https://tbc.wowhead.com/item=27902/mana-etched-slippers) (The Steamvault)
+3. [Shadoweave Boots](https://tbc.wowhead.com/item=21870/shadoweave-boots) (Tailoring)
 
-### Ring 1
-- **BIS:** [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Ring of the Burning Acolyte](https://tbc.wowhead.com/item=29384/ring-of-the-burning-acolyte) (Heroic Blood Furnace)
+### Rings
+1. [Ring of Recurrence](https://tbc.wowhead.com/item=28227/ring-of-recurrence) (The Botanica)
+2. [Quagmirran's Eye](https://tbc.wowhead.com/item=27683/quagmirrans-eye) (The Slave Pens)
+3. [Band of Crimson Fury](https://tbc.wowhead.com/item=29352/band-of-crimson-fury) (Heroic Sethekk Halls)
 
-### Ring 2
-- **BIS:** [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Ring of the Burning Acolyte](https://tbc.wowhead.com/item=29384/ring-of-the-burning-acolyte) (Heroic Blood Furnace)
-
-### Trinket 1
-- **BIS:** [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) (Karazhan - Attumen)
-- **Alternative:** [Essence of the Martyr](https://tbc.wowhead.com/item=29370/essence-of-the-martyr) (Heroic Auchenai Crypts)
-
-### Trinket 2
-- **BIS:** [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) (Karazhan - Maiden of Virtue)
-- **Alternative:** [Essence of the Martyr](https://tbc.wowhead.com/item=29370/essence-of-the-martyr) (Heroic Auchenai Crypts)
+### Trinkets
+1. [Scryer's Bloodgem](https://tbc.wowhead.com/item=29132/scryers-bloodgem) (Scryers Exalted)
+2. [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29370/icon-of-the-silver-crescent) (Badge of Justice)
+3. [Quagmirran's Eye](https://tbc.wowhead.com/item=27683/quagmirrans-eye) (The Slave Pens)
 
 ### Main Hand
-- **BIS:** [Staff of the Avatar](https://tbc.wowhead.com/item=31048/staff-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Staff of the Burning Acolyte](https://tbc.wowhead.com/item=29383/staff-of-the-burning-acolyte) (Heroic Blood Furnace)
+1. [The Bringer of Death](https://tbc.wowhead.com/item=31336/the-bringer-of-death) (World Drop)
+2. [Warpstaff of Arcanum](https://tbc.wowhead.com/item=27842/warpstaf-of-arcanum) (The Botanica)
+3. [Greatsword of Horrid Dreams](https://tbc.wowhead.com/item=27905/greatsword-of-horrid-dreams) (The Steamvault)
 
 ### Off Hand
-- **BIS:** [Orb of the Avatar](https://tbc.wowhead.com/item=31047/orb-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Orb of the Burning Acolyte](https://tbc.wowhead.com/item=29382/orb-of-the-burning-acolyte) (Heroic Blood Furnace)
+1. [Lamp of Peaceful Radiance](https://tbc.wowhead.com/item=28260/lamp-of-peaceful-radiance) (The Arcatraz)
+2. [Tears of Heaven](https://tbc.wowhead.com/item=28412/tears-of-heaven) (The Mechanar)
+3. [Netherwing Orb](https://tbc.wowhead.com/item=27868/netherwing-orb) (The Arcatraz)
 
 ### Wand
-- **BIS:** [Wand of the Avatar](https://tbc.wowhead.com/item=31046/wand-of-the-avatar) (Karazhan - Prince Malchezaar)
-- **Alternative:** [Wand of the Burning Acolyte](https://tbc.wowhead.com/item=29381/wand-of-the-burning-acolyte) (Heroic Blood Furnace)
+1. [Nether Core's Control Rod](https://tbc.wowhead.com/item=27890/nether-cores-control-rod) (The Arcatraz)
+2. [Wand of the Netherwing](https://tbc.wowhead.com/item=27885/wand-of-the-netherwing) (The Arcatraz)
+3. [Mana Channeling Wand](https://tbc.wowhead.com/item=28320/mana-channeling-wand) (The Steamvault)
 
 ---
 
