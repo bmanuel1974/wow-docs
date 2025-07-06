@@ -21,6 +21,7 @@ A comprehensive, step-by-step guide for efficient solo and dungeon leveling as a
 - [Useful Macros](#️-useful-macros)
 - [Build Options](#-build-options)
 - [Buffs & Consumables Reference](#buffs--consumables-reference)
+- [Burning Crusade Guide](tbc-warlock-guide.md)
 
 ---
 
