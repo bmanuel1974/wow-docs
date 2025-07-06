@@ -21,6 +21,7 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - [Pre-Raid BIS Gear](#pre-raid-bis-gear)
 - [Build Options](#build-options)
 - [TBC Raid Phases, Dungeons, and New Questing Areas](#tbc-raid-phases-dungeons-and-new-questing-areas)
+- [🏆 Raid Progression BIS Items by Build](#raid-progression-bis-items-by-build)
 
 ---
 
@@ -976,4 +977,98 @@ The original WoW Classic (2019–2021) phases lasted between 2 and 4 months each
 **Note:**
 - All heroic dungeons are available from launch.
 - Isle of Quel'Danas (Phase 5) is the only new questing area added post-launch, with valuable daily quests and reputation rewards for Warlocks.
-- Most new items for Warlocks in later phases come from raids or badge/reputation vendors. 
+- Most new items for Warlocks in later phases come from raids or badge/reputation vendors.
+
+---
+
+## 🏆 Raid Progression BIS Items by Build
+
+### Karazhan (Tier 4) BIS
+
+| Slot | Affliction | Demonology | Destruction |
+|------|------------|------------|-------------|
+| Head | [Cowl of the Avatar](https://tbc.wowhead.com/item=31056/cowl-of-the-avatar) | [Cowl of the Avatar](https://tbc.wowhead.com/item=31056/cowl-of-the-avatar) | [Cowl of the Avatar](https://tbc.wowhead.com/item=31056/cowl-of-the-avatar) |
+| Neck | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) |
+| Shoulders | [Mantle of the Avatar](https://tbc.wowhead.com/item=31060/mantle-of-the-avatar) | [Mantle of the Avatar](https://tbc.wowhead.com/item=31060/mantle-of-the-avatar) | [Mantle of the Avatar](https://tbc.wowhead.com/item=31060/mantle-of-the-avatar) |
+| Back | [Cloak of the Avatar](https://tbc.wowhead.com/item=31058/cloak-of-the-avatar) | [Cloak of the Avatar](https://tbc.wowhead.com/item=31058/cloak-of-the-avatar) | [Cloak of the Avatar](https://tbc.wowhead.com/item=31058/cloak-of-the-avatar) |
+| Chest | [Robes of the Avatar](https://tbc.wowhead.com/item=31057/robes-of-the-avatar) | [Robes of the Avatar](https://tbc.wowhead.com/item=31057/robes-of-the-avatar) | [Robes of the Avatar](https://tbc.wowhead.com/item=31057/robes-of-the-avatar) |
+| Wrists | [Bracers of the Avatar](https://tbc.wowhead.com/item=31055/bracers-of-the-avatar) | [Bracers of the Avatar](https://tbc.wowhead.com/item=31055/bracers-of-the-avatar) | [Bracers of the Avatar](https://tbc.wowhead.com/item=31055/bracers-of-the-avatar) |
+| Hands | [Gloves of the Avatar](https://tbc.wowhead.com/item=31054/gloves-of-the-avatar) | [Gloves of the Avatar](https://tbc.wowhead.com/item=31054/gloves-of-the-avatar) | [Gloves of the Avatar](https://tbc.wowhead.com/item=31054/gloves-of-the-avatar) |
+| Waist | [Belt of the Avatar](https://tbc.wowhead.com/item=31052/belt-of-the-avatar) | [Belt of the Avatar](https://tbc.wowhead.com/item=31052/belt-of-the-avatar) | [Belt of the Avatar](https://tbc.wowhead.com/item=31052/belt-of-the-avatar) |
+| Legs | [Leggings of the Avatar](https://tbc.wowhead.com/item=31053/leggings-of-the-avatar) | [Leggings of the Avatar](https://tbc.wowhead.com/item=31053/leggings-of-the-avatar) | [Leggings of the Avatar](https://tbc.wowhead.com/item=31053/leggings-of-the-avatar) |
+| Feet | [Boots of the Avatar](https://tbc.wowhead.com/item=31051/boots-of-the-avatar) | [Boots of the Avatar](https://tbc.wowhead.com/item=31051/boots-of-the-avatar) | [Boots of the Avatar](https://tbc.wowhead.com/item=31051/boots-of-the-avatar) |
+| Ring 1 | [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) | [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) | [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) |
+| Ring 2 | [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) | [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) | [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) |
+| Trinket 1 | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) |
+| Trinket 2 | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) |
+| Main Hand | [Staff of the Avatar](https://tbc.wowhead.com/item=31048/staff-of-the-avatar) | [Staff of the Avatar](https://tbc.wowhead.com/item=31048/staff-of-the-avatar) | [Staff of the Avatar](https://tbc.wowhead.com/item=31048/staff-of-the-avatar) |
+| Off Hand | [Orb of the Avatar](https://tbc.wowhead.com/item=31047/orb-of-the-avatar) | [Orb of the Avatar](https://tbc.wowhead.com/item=31047/orb-of-the-avatar) | [Orb of the Avatar](https://tbc.wowhead.com/item=31047/orb-of-the-avatar) |
+| Wand | [Wand of the Avatar](https://tbc.wowhead.com/item=31046/wand-of-the-avatar) | [Wand of the Avatar](https://tbc.wowhead.com/item=31046/wand-of-the-avatar) | [Wand of the Avatar](https://tbc.wowhead.com/item=31046/wand-of-the-avatar) |
+
+### Serpentshrine Cavern & Tempest Keep (Tier 5) BIS
+
+| Slot | Affliction | Demonology | Destruction |
+|------|------------|------------|-------------|
+| Head | [Cowl of the Grand Engineer](https://tbc.wowhead.com/item=30206/cowl-of-the-grand-engineer) | [Cowl of the Grand Engineer](https://tbc.wowhead.com/item=30206/cowl-of-the-grand-engineer) | [Cowl of the Grand Engineer](https://tbc.wowhead.com/item=30206/cowl-of-the-grand-engineer) |
+| Neck | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) |
+| Shoulders | [Mantle of the Corruptor](https://tbc.wowhead.com/item=30210/mantle-of-the-corruptor) | [Mantle of the Corruptor](https://tbc.wowhead.com/item=30210/mantle-of-the-corruptor) | [Mantle of the Corruptor](https://tbc.wowhead.com/item=30210/mantle-of-the-corruptor) |
+| Back | [Cloak of the Corruptor](https://tbc.wowhead.com/item=30205/cloak-of-the-corruptor) | [Cloak of the Corruptor](https://tbc.wowhead.com/item=30205/cloak-of-the-corruptor) | [Cloak of the Corruptor](https://tbc.wowhead.com/item=30205/cloak-of-the-corruptor) |
+| Chest | [Robes of the Corruptor](https://tbc.wowhead.com/item=30207/robes-of-the-corruptor) | [Robes of the Corruptor](https://tbc.wowhead.com/item=30207/robes-of-the-corruptor) | [Robes of the Corruptor](https://tbc.wowhead.com/item=30207/robes-of-the-corruptor) |
+| Wrists | [Bracers of the Corruptor](https://tbc.wowhead.com/item=30205/bracers-of-the-corruptor) | [Bracers of the Corruptor](https://tbc.wowhead.com/item=30205/bracers-of-the-corruptor) | [Bracers of the Corruptor](https://tbc.wowhead.com/item=30205/bracers-of-the-corruptor) |
+| Hands | [Gloves of the Corruptor](https://tbc.wowhead.com/item=30208/gloves-of-the-corruptor) | [Gloves of the Corruptor](https://tbc.wowhead.com/item=30208/gloves-of-the-corruptor) | [Gloves of the Corruptor](https://tbc.wowhead.com/item=30208/gloves-of-the-corruptor) |
+| Waist | [Belt of the Corruptor](https://tbc.wowhead.com/item=30209/belt-of-the-corruptor) | [Belt of the Corruptor](https://tbc.wowhead.com/item=30209/belt-of-the-corruptor) | [Belt of the Corruptor](https://tbc.wowhead.com/item=30209/belt-of-the-corruptor) |
+| Legs | [Leggings of the Corruptor](https://tbc.wowhead.com/item=30211/leggings-of-the-corruptor) | [Leggings of the Corruptor](https://tbc.wowhead.com/item=30211/leggings-of-the-corruptor) | [Leggings of the Corruptor](https://tbc.wowhead.com/item=30211/leggings-of-the-corruptor) |
+| Feet | [Boots of the Corruptor](https://tbc.wowhead.com/item=30212/boots-of-the-corruptor) | [Boots of the Corruptor](https://tbc.wowhead.com/item=30212/boots-of-the-corruptor) | [Boots of the Corruptor](https://tbc.wowhead.com/item=30212/boots-of-the-corruptor) |
+| Ring 1 | [Ring of the Corruptor](https://tbc.wowhead.com/item=30213/ring-of-the-corruptor) | [Ring of the Corruptor](https://tbc.wowhead.com/item=30213/ring-of-the-corruptor) | [Ring of the Corruptor](https://tbc.wowhead.com/item=30213/ring-of-the-corruptor) |
+| Ring 2 | [Ring of the Corruptor](https://tbc.wowhead.com/item=30213/ring-of-the-corruptor) | [Ring of the Corruptor](https://tbc.wowhead.com/item=30213/ring-of-the-corruptor) | [Ring of the Corruptor](https://tbc.wowhead.com/item=30213/ring-of-the-corruptor) |
+| Trinket 1 | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) |
+| Trinket 2 | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) |
+| Main Hand | [Staff of the Corruptor](https://tbc.wowhead.com/item=30214/staff-of-the-corruptor) | [Staff of the Corruptor](https://tbc.wowhead.com/item=30214/staff-of-the-corruptor) | [Staff of the Corruptor](https://tbc.wowhead.com/item=30214/staff-of-the-corruptor) |
+| Off Hand | [Orb of the Corruptor](https://tbc.wowhead.com/item=30215/orb-of-the-corruptor) | [Orb of the Corruptor](https://tbc.wowhead.com/item=30215/orb-of-the-corruptor) | [Orb of the Corruptor](https://tbc.wowhead.com/item=30215/orb-of-the-corruptor) |
+| Wand | [Wand of the Corruptor](https://tbc.wowhead.com/item=30216/wand-of-the-corruptor) | [Wand of the Corruptor](https://tbc.wowhead.com/item=30216/wand-of-the-corruptor) | [Wand of the Corruptor](https://tbc.wowhead.com/item=30216/wand-of-the-corruptor) |
+
+### Black Temple & Hyjal (Tier 6) BIS
+
+| Slot | Affliction | Demonology | Destruction |
+|------|------------|------------|-------------|
+| Head | [Cowl of the Illidari High Lord](https://tbc.wowhead.com/item=31056/cowl-of-the-illidari-high-lord) | [Cowl of the Illidari High Lord](https://tbc.wowhead.com/item=31056/cowl-of-the-illidari-high-lord) | [Cowl of the Illidari High Lord](https://tbc.wowhead.com/item=31056/cowl-of-the-illidari-high-lord) |
+| Neck | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) |
+| Shoulders | [Mantle of the Illidari High Lord](https://tbc.wowhead.com/item=31060/mantle-of-the-illidari-high-lord) | [Mantle of the Illidari High Lord](https://tbc.wowhead.com/item=31060/mantle-of-the-illidari-high-lord) | [Mantle of the Illidari High Lord](https://tbc.wowhead.com/item=31060/mantle-of-the-illidari-high-lord) |
+| Back | [Cloak of the Illidari High Lord](https://tbc.wowhead.com/item=31058/cloak-of-the-illidari-high-lord) | [Cloak of the Illidari High Lord](https://tbc.wowhead.com/item=31058/cloak-of-the-illidari-high-lord) | [Cloak of the Illidari High Lord](https://tbc.wowhead.com/item=31058/cloak-of-the-illidari-high-lord) |
+| Chest | [Robes of the Illidari High Lord](https://tbc.wowhead.com/item=31057/robes-of-the-illidari-high-lord) | [Robes of the Illidari High Lord](https://tbc.wowhead.com/item=31057/robes-of-the-illidari-high-lord) | [Robes of the Illidari High Lord](https://tbc.wowhead.com/item=31057/robes-of-the-illidari-high-lord) |
+| Wrists | [Bracers of the Illidari High Lord](https://tbc.wowhead.com/item=31055/bracers-of-the-illidari-high-lord) | [Bracers of the Illidari High Lord](https://tbc.wowhead.com/item=31055/bracers-of-the-illidari-high-lord) | [Bracers of the Illidari High Lord](https://tbc.wowhead.com/item=31055/bracers-of-the-illidari-high-lord) |
+| Hands | [Gloves of the Illidari High Lord](https://tbc.wowhead.com/item=31054/gloves-of-the-illidari-high-lord) | [Gloves of the Illidari High Lord](https://tbc.wowhead.com/item=31054/gloves-of-the-illidari-high-lord) | [Gloves of the Illidari High Lord](https://tbc.wowhead.com/item=31054/gloves-of-the-illidari-high-lord) |
+| Waist | [Belt of the Illidari High Lord](https://tbc.wowhead.com/item=31052/belt-of-the-illidari-high-lord) | [Belt of the Illidari High Lord](https://tbc.wowhead.com/item=31052/belt-of-the-illidari-high-lord) | [Belt of the Illidari High Lord](https://tbc.wowhead.com/item=31052/belt-of-the-illidari-high-lord) |
+| Legs | [Leggings of the Illidari High Lord](https://tbc.wowhead.com/item=31053/leggings-of-the-illidari-high-lord) | [Leggings of the Illidari High Lord](https://tbc.wowhead.com/item=31053/leggings-of-the-illidari-high-lord) | [Leggings of the Illidari High Lord](https://tbc.wowhead.com/item=31053/leggings-of-the-illidari-high-lord) |
+| Feet | [Boots of the Illidari High Lord](https://tbc.wowhead.com/item=31051/boots-of-the-illidari-high-lord) | [Boots of the Illidari High Lord](https://tbc.wowhead.com/item=31051/boots-of-the-illidari-high-lord) | [Boots of the Illidari High Lord](https://tbc.wowhead.com/item=31051/boots-of-the-illidari-high-lord) |
+| Ring 1 | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) |
+| Ring 2 | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) |
+| Trinket 1 | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) |
+| Trinket 2 | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) |
+| Main Hand | [Staff of the Illidari High Lord](https://tbc.wowhead.com/item=31048/staff-of-the-illidari-high-lord) | [Staff of the Illidari High Lord](https://tbc.wowhead.com/item=31048/staff-of-the-illidari-high-lord) | [Staff of the Illidari High Lord](https://tbc.wowhead.com/item=31048/staff-of-the-illidari-high-lord) |
+| Off Hand | [Orb of the Illidari High Lord](https://tbc.wowhead.com/item=31047/orb-of-the-illidari-high-lord) | [Orb of the Illidari High Lord](https://tbc.wowhead.com/item=31047/orb-of-the-illidari-high-lord) | [Orb of the Illidari High Lord](https://tbc.wowhead.com/item=31047/orb-of-the-illidari-high-lord) |
+| Wand | [Wand of the Illidari High Lord](https://tbc.wowhead.com/item=31046/wand-of-the-illidari-high-lord) | [Wand of the Illidari High Lord](https://tbc.wowhead.com/item=31046/wand-of-the-illidari-high-lord) | [Wand of the Illidari High Lord](https://tbc.wowhead.com/item=31046/wand-of-the-illidari-high-lord) |
+
+### Sunwell Plateau (Tier 6.5) BIS
+
+| Slot | Affliction | Demonology | Destruction |
+|------|------------|------------|-------------|
+| Head | [Cowl of the Illidari High Lord](https://tbc.wowhead.com/item=31056/cowl-of-the-illidari-high-lord) | [Cowl of the Illidari High Lord](https://tbc.wowhead.com/item=31056/cowl-of-the-illidari-high-lord) | [Cowl of the Illidari High Lord](https://tbc.wowhead.com/item=31056/cowl-of-the-illidari-high-lord) |
+| Neck | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) | [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) |
+| Shoulders | [Mantle of the Illidari High Lord](https://tbc.wowhead.com/item=31060/mantle-of-the-illidari-high-lord) | [Mantle of the Illidari High Lord](https://tbc.wowhead.com/item=31060/mantle-of-the-illidari-high-lord) | [Mantle of the Illidari High Lord](https://tbc.wowhead.com/item=31060/mantle-of-the-illidari-high-lord) |
+| Back | [Cloak of the Illidari High Lord](https://tbc.wowhead.com/item=31058/cloak-of-the-illidari-high-lord) | [Cloak of the Illidari High Lord](https://tbc.wowhead.com/item=31058/cloak-of-the-illidari-high-lord) | [Cloak of the Illidari High Lord](https://tbc.wowhead.com/item=31058/cloak-of-the-illidari-high-lord) |
+| Chest | [Robes of the Illidari High Lord](https://tbc.wowhead.com/item=31057/robes-of-the-illidari-high-lord) | [Robes of the Illidari High Lord](https://tbc.wowhead.com/item=31057/robes-of-the-illidari-high-lord) | [Robes of the Illidari High Lord](https://tbc.wowhead.com/item=31057/robes-of-the-illidari-high-lord) |
+| Wrists | [Bracers of the Illidari High Lord](https://tbc.wowhead.com/item=31055/bracers-of-the-illidari-high-lord) | [Bracers of the Illidari High Lord](https://tbc.wowhead.com/item=31055/bracers-of-the-illidari-high-lord) | [Bracers of the Illidari High Lord](https://tbc.wowhead.com/item=31055/bracers-of-the-illidari-high-lord) |
+| Hands | [Gloves of the Illidari High Lord](https://tbc.wowhead.com/item=31054/gloves-of-the-illidari-high-lord) | [Gloves of the Illidari High Lord](https://tbc.wowhead.com/item=31054/gloves-of-the-illidari-high-lord) | [Gloves of the Illidari High Lord](https://tbc.wowhead.com/item=31054/gloves-of-the-illidari-high-lord) |
+| Waist | [Belt of the Illidari High Lord](https://tbc.wowhead.com/item=31052/belt-of-the-illidari-high-lord) | [Belt of the Illidari High Lord](https://tbc.wowhead.com/item=31052/belt-of-the-illidari-high-lord) | [Belt of the Illidari High Lord](https://tbc.wowhead.com/item=31052/belt-of-the-illidari-high-lord) |
+| Legs | [Leggings of the Illidari High Lord](https://tbc.wowhead.com/item=31053/leggings-of-the-illidari-high-lord) | [Leggings of the Illidari High Lord](https://tbc.wowhead.com/item=31053/leggings-of-the-illidari-high-lord) | [Leggings of the Illidari High Lord](https://tbc.wowhead.com/item=31053/leggings-of-the-illidari-high-lord) |
+| Feet | [Boots of the Illidari High Lord](https://tbc.wowhead.com/item=31051/boots-of-the-illidari-high-lord) | [Boots of the Illidari High Lord](https://tbc.wowhead.com/item=31051/boots-of-the-illidari-high-lord) | [Boots of the Illidari High Lord](https://tbc.wowhead.com/item=31051/boots-of-the-illidari-high-lord) |
+| Ring 1 | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) |
+| Ring 2 | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) | [Ring of the Illidari High Lord](https://tbc.wowhead.com/item=31049/ring-of-the-illidari-high-lord) |
+| Trinket 1 | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) | [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) |
+| Trinket 2 | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) | [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) |
+| Main Hand | [Staff of the Illidari High Lord](https://tbc.wowhead.com/item=31048/staff-of-the-illidari-high-lord) | [Staff of the Illidari High Lord](https://tbc.wowhead.com/item=31048/staff-of-the-illidari-high-lord) | [Staff of the Illidari High Lord](https://tbc.wowhead.com/item=31048/staff-of-the-illidari-high-lord) |
+| Off Hand | [Orb of the Illidari High Lord](https://tbc.wowhead.com/item=31047/orb-of-the-illidari-high-lord) | [Orb of the Illidari High Lord](https://tbc.wowhead.com/item=31047/orb-of-the-illidari-high-lord) | [Orb of the Illidari High Lord](https://tbc.wowhead.com/item=31047/orb-of-the-illidari-high-lord) |
+| Wand | [Wand of the Illidari High Lord](https://tbc.wowhead.com/item=31046/wand-of-the-illidari-high-lord) | [Wand of the Illidari High Lord](https://tbc.wowhead.com/item=31046/wand-of-the-illidari-high-lord) | [Wand of the Illidari High Lord](https://tbc.wowhead.com/item=31046/wand-of-the-illidari-high-lord) |
+
+**Note:** The BIS items are generally the same across all three Warlock builds since they all benefit from spell power, intellect, and stamina. The main differences come from talent choices and playstyle rather than gear selection. 
