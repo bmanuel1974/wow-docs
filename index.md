@@ -45,12 +45,12 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Start using Curse of Agony (Rank 3) in rotation.
 
 **Tailoring Recipes:**  
-- Silk Headband  
-- Azure Silk Pants
+- Silk Headband (Trainer)  
+- Azure Silk Pants (Trainer)
 
 **Enchanting Recipes:**  
-- Lesser Intellect (Bracer)  
-- Lesser Stamina (Chest)
+- Lesser Intellect (Bracer) (Trainer)  
+- Lesser Stamina (Chest) (Trainer)
 
 **Buffs & Consumables:**  
 - Elixir of Wisdom  
@@ -75,10 +75,10 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Use improved Curse of Agony for better DoT.
 
 **Tailoring Recipes:**  
-- Azure Silk Hood
+- Azure Silk Hood (Trainer)
 
 **Enchanting Recipes:**  
-- Lesser Spirit (Weapon)
+- Lesser Spirit (Weapon) (Trainer)
 
 **Buffs & Consumables:**  
 - Elixir of Fortitude  
@@ -101,7 +101,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Add Drain Soul to rotation for better mana regen.
 
 **Tailoring Recipes:**  
-- Silk Robe
+- Silk Robe (Trainer)
 
 **Enchanting Recipes:**  
 - Disenchant green items for dust
@@ -126,10 +126,10 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Use Amplify Curse before Curse of Agony on tough mobs.
 
 **Tailoring Recipes:**  
-- Spider Silk Boots
+- Spider Silk Boots (Trainer)
 
 **Enchanting Recipes:**  
-- Lesser Beastslayer (Weapon)
+- Lesser Beastslayer (Weapon) (Drop: Wailing Caverns)
 
 **Buffs & Consumables:**  
 - Scroll of Spirit
@@ -151,7 +151,7 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - No major change.
 
 **Tailoring Recipes:**  
-- Spider Belt
+- Spider Belt (Trainer)
 
 **Enchanting Recipes:**  
 - Disenchant green items for dust
@@ -176,11 +176,11 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - Use Shadow Bolt Rank 5 for better damage.
 
 **Tailoring Recipes:**  
-- Formal White Shirt (for skillups)  
-- Green Woolen Bag
+- Formal White Shirt (Trainer)  
+- Green Woolen Bag (Trainer)
 
 **Enchanting Recipes:**  
-- Lesser Mana (Weapon)
+- Lesser Mana (Weapon) (Trainer)
 
 **Buffs & Consumables:**  
 - Healthstone  
@@ -191,143 +191,619 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 
 ---
 
-*Further levels can be added similarly following this format.*
+### Level 31
+
+**Talent Point:**  
+- 1/1 Siphon Life (Affliction)
+
+**Tailoring Recipes:**  
+- Spider Silk Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Elixir of Wisdom
+
+**Auction House Gear:**  
+- Robes with +Spirit and +Stamina
 
 ---
 
-## 🏰 Dungeon Guide
+### Level 32
 
-<!--
-For each dungeon (only at the first eligible level), include:
-- Name, level range, location, estimated run time, notable drops
--->
+**Talent Point:**  
+- 1/2 Shadow Mastery (Affliction)
 
-*Coming soon: Dungeon details and loot tables!*
+**Visit Trainer?**  
+- Yes: Learn Corruption (Rank 4), Create Healthstone (Rank 3)
 
----
+**Tailoring Recipes:**  
+- Spider Belt (Trainer)
 
-## 🧪 Buffs & Consumables Reference
+**Enchanting Recipes:**  
+- Lesser Mana (Weapon) (Trainer)
 
-<!--
-Table or list of recommended items.
--->
+**Buffs & Consumables:**  
+- Scroll of Intellect
 
-*Coming soon: Buffs and consumables tables!*
-
----
-
-## 🛒 Auction House Gear Reference
-
-<!--
-Table of recommended green gear.
--->
-
-*Coming soon: Auction house gear recommendations!*
+**Auction House Gear:**  
+- Cloak with +Stamina and +Spirit
 
 ---
 
-## 🧵 Professions Reference
+### Level 33
 
-<!--
-Key recipes and enchants for Tailoring/Enchanting.
--->
+**Talent Point:**  
+- 2/2 Shadow Mastery (Affliction)
 
-*Coming soon: Professions tips and recipes!*
+**Tailoring Recipes:**  
+- Azure Silk Cloak (Trainer)
 
----
+**Enchanting Recipes:**  
+- Disenchant green items for dust
 
-## 🔁 Optimal Rotations
+**Buffs & Consumables:**  
+- Elixir of Firepower
 
-Each rotation is optimized for solo questing, dungeons, and PvP server survival.
-
-### 🧱 Affliction Rotation (41/0/20)
-
-#### 🎯 Single Target / Elite
-1. **Corruption** (instant)
-2. **Curse of Agony** (or Weakness if needed)
-3. **Siphon Life**
-4. **Drain Life** (primary damage + sustain)
-5. **Shadow Bolt** only when **Nightfall** procs
-6. **Wand** to finish low HP mobs
-
-> **Survival Loop**: Life Tap → Drain Life → Bandage  
-> **Keep** Howl of Terror or Death Coil for unexpected adds or PvP
-
-#### 🔥 Packs of Mobs
-1. Pull with **Corruption** on 2–3
-2. **Siphon Life** → **Seed of Corruption** on center
-3. **Howl of Terror** if overwhelmed
-4. Drain Life or Wand cleanup
+**Auction House Gear:**  
+- Gloves with +Intellect and +Spirit
 
 ---
 
-### 🐶 Felguard Demonology Rotation (21/40/0)
+### Level 34
 
-#### 🎯 Single Target / Elite
-1. **Send in Felguard** (Intercept if talented)
-2. **Immolate** → **Corruption**
-3. **Shadow Bolt** or **Wand** to conserve mana
-4. **Shadowburn** for finish
-5. Use **Life Tap** + **Drain Life** to recover
+**Talent Point:**  
+- 3/3 Shadow Mastery (Affliction)
 
-#### 🔥 Packs of Mobs
-1. Tag with **Corruption**
-2. **Felguard Cleave** on cooldown
-3. Cast **Seed of Corruption** (3+ mobs)
-4. Use **Howl of Terror** defensively
-5. **Healthstone** or **Drain Life** for recovery
+**Visit Trainer?**  
+- Yes: Learn Immolate (Rank 4), Unending Breath
 
----
+**Tailoring Recipes:**  
+- Azure Silk Cloak (Trainer)
 
-### 💥 Shadow Destruction Rotation (0/21/40)
+**Enchanting Recipes:**  
+- Lesser Stamina (Chest) (Trainer)
 
-#### 🎯 Single Target / Dungeon Boss
-1. **Immolate**
-2. **Curse of Elements**
-3. **Shadow Bolt spam**
-4. **Conflagrate** if specced
-5. **Shadowburn** at <20% HP
-6. **Life Tap** often — very mana hungry
+**Buffs & Consumables:**  
+- Healthstone
 
-#### 🔥 Packs of Mobs
-1. **Seed of Corruption** on primary target
-2. **Shadowfury** (AoE stun/damage)
-3. Refresh **Seed** until detonation
-4. **Soulshatter** if you overpull threat
-
-> Strongest AoE potential in dungeons  
-> Weakest sustain for solo play
+**Auction House Gear:**  
+- Robes with +Intellect and +Stamina
 
 ---
 
-### ☠️ SL/SL PvP Survival Rotation (24/37/0)
+### Level 35
 
-#### 🎯 Solo/PvP/Anti-Gank
-1. **Corruption**
-2. **Siphon Life**
-3. **Curse of Exhaustion** (vs. melee)
-4. **Drain Life** or **Wand**
-5. Keep **Soul Link** up at all times
+**Talent Point:**  
+- 4/3 Shadow Mastery (Affliction)
 
-#### 🔥 Multi-Target (2–3)
-1. DoT all mobs → **Seed of Corruption** optional
-2. Use **Voidwalker Sacrifice** or **Healthstone**
-3. Kite with **Howl of Terror** if needed
+**Tailoring Recipes:**  
+- Spider Silk Gloves (Trainer)
 
-> Best sustain and anti-gank build  
-> Not ideal for high-speed dungeon clears
+**Enchanting Recipes:**  
+- Disenchant green items for dust
 
----
+**Buffs & Consumables:**  
+- Elixir of Wisdom
 
-## 💡 Quick Tips
-
-- **Wand Finishers**: Save mana on mobs <15% HP
-- **Soulshatter**: Always use in dungeon AoE if you’re topping threat
-- **Dark Pact**: Best for Affliction with Imp/Felhunter
-- **Shadowburn**: Instant execute – keep shards ready
+**Auction House Gear:**  
+- Cloak with +Spirit and +Stamina
 
 ---
 
-<footer>
-Last updated: July 2025 &mdash; Guide by <a href="https://github.com/yourusername">yourusername</a> | <a href="https://classic.wowhead.com/">Wowhead</a>
-</footer>
+### Level 36
+
+**Talent Point:**  
+- 5/3 Shadow Mastery (Affliction)
+
+**Visit Trainer?**  
+- Yes: Learn Curse of Weakness (Rank 3), Life Tap (Rank 4)
+
+**Tailoring Recipes:**  
+- Earthen Vest (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Agility (Boots) (Trainer)
+
+**Buffs & Consumables:**  
+- Scroll of Spirit
+
+**Auction House Gear:**  
+- Gloves with +Intellect and +Spirit
+
+---
+
+### Level 37
+
+**Talent Point:**  
+- 1/5 Demonic Embrace (Demonology)
+
+**Tailoring Recipes:**  
+- Enchanter's Cowl (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Elixir of Firepower
+
+**Auction House Gear:**  
+- Robes with +Intellect and +Stamina
+
+---
+
+### Level 38
+
+**Talent Point:**  
+- 2/5 Demonic Embrace (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Drain Soul (Rank 2), Fear (Rank 3)
+
+**Tailoring Recipes:**  
+- Enchanter's Cowl (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Stamina (Chest) (Trainer)
+
+**Buffs & Consumables:**  
+- Healthstone
+
+**Auction House Gear:**  
+- Cloak with +Spirit and +Stamina
+
+---
+
+### Level 39
+
+**Talent Point:**  
+- 3/5 Demonic Embrace (Demonology)
+
+**Tailoring Recipes:**  
+- Crimson Silk Vest (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Elixir of Wisdom
+
+**Auction House Gear:**  
+- Gloves with +Intellect and +Spirit
+
+---
+
+### Level 40
+
+**Talent Point:**  
+- 4/5 Demonic Embrace (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Shadow Bolt (Rank 6), Summon Felhunter
+
+**Tailoring Recipes:**  
+- Shadoweave Pants (Trainer, if recipe known)
+
+**Enchanting Recipes:**  
+- Greater Intellect (Bracer) (Trainer)
+
+**Buffs & Consumables:**  
+- Scroll of Intellect
+
+**Auction House Gear:**  
+- Robes with +Stamina and +Spirit
+
+---
+
+### Level 41
+
+**Talent Point:**  
+- 5/5 Demonic Embrace (Demonology)
+
+**Tailoring Recipes:**  
+- Shadoweave Robe (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Healthstone
+
+**Auction House Gear:**  
+- Cloak with +Intellect and +Stamina
+
+---
+
+### Level 42
+
+**Talent Point:**  
+- 1/1 Fel Intellect (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Immolate (Rank 5)
+
+**Tailoring Recipes:**  
+- Crimson Silk Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Mana (Weapon) (Trainer)
+
+**Buffs & Consumables:**  
+- Elixir of Fortitude
+
+**Auction House Gear:**  
+- Gloves with +Spirit and +Stamina
+
+---
+
+### Level 43
+
+**Talent Point:**  
+- 2/1 Fel Intellect (Demonology)
+
+**Tailoring Recipes:**  
+- Crimson Silk Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Scroll of Spirit
+
+**Auction House Gear:**  
+- Robes with +Intellect and +Stamina
+
+---
+
+### Level 44
+
+**Talent Point:**  
+- 3/1 Fel Intellect (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Curse of Agony (Rank 5)
+
+**Tailoring Recipes:**  
+- Crimson Silk Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Stamina (Chest) (Trainer)
+
+**Buffs & Consumables:**  
+- Healthstone
+
+**Auction House Gear:**  
+- Cloak with +Spirit and +Stamina
+
+---
+
+### Level 45
+
+**Talent Point:**  
+- 4/1 Fel Intellect (Demonology)
+
+**Tailoring Recipes:**  
+- Shadoweave Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Elixir of Wisdom
+
+**Auction House Gear:**  
+- Gloves with +Intellect and +Spirit
+
+---
+
+### Level 46
+
+**Talent Point:**  
+- 5/1 Fel Intellect (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Drain Life (Rank 4)
+
+**Tailoring Recipes:**  
+- Shadoweave Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Agility (Boots) (Trainer)
+
+**Buffs & Consumables:**  
+- Scroll of Intellect
+
+**Auction House Gear:**  
+- Robes with +Stamina and +Spirit
+
+---
+
+### Level 47
+
+**Talent Point:**  
+- 1/1 Improved Felhunter (Demonology)
+
+**Tailoring Recipes:**  
+- Crimson Silk Shoulders (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Healthstone
+
+**Auction House Gear:**  
+- Cloak with +Intellect and +Stamina
+
+---
+
+### Level 48
+
+**Talent Point:**  
+- 2/1 Improved Felhunter (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Fear (Rank 4)
+
+**Tailoring Recipes:**  
+- Crimson Silk Shoulders (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Stamina (Chest) (Trainer)
+
+**Buffs & Consumables:**  
+- Elixir of Fortitude
+
+**Auction House Gear:**  
+- Gloves with +Spirit and +Stamina
+
+---
+
+### Level 49
+
+**Talent Point:**  
+- 3/1 Improved Felhunter (Demonology)
+
+**Tailoring Recipes:**  
+- Shadoweave Shoulders (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Scroll of Spirit
+
+**Auction House Gear:**  
+- Robes with +Intellect and +Stamina
+
+---
+
+### Level 50
+
+**Talent Point:**  
+- 4/1 Improved Felhunter (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Shadow Bolt (Rank 7)
+
+**Tailoring Recipes:**  
+- Shadoweave Shoulders (Trainer)
+
+**Enchanting Recipes:**  
+- Greater Intellect (Bracer) (Trainer)
+
+**Buffs & Consumables:**  
+- Healthstone
+
+**Auction House Gear:**  
+- Cloak with +Spirit and +Stamina
+
+---
+
+### Level 51
+
+**Talent Point:**  
+- 5/1 Improved Felhunter (Demonology)
+
+**Tailoring Recipes:**  
+- Crimson Silk Robe (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Elixir of Wisdom
+
+**Auction House Gear:**  
+- Gloves with +Intellect and +Spirit
+
+---
+
+### Level 52
+
+**Talent Point:**  
+- 1/1 Improved Succubus (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Immolate (Rank 6)
+
+**Tailoring Recipes:**  
+- Crimson Silk Robe (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Mana (Weapon) (Trainer)
+
+**Buffs & Consumables:**  
+- Scroll of Intellect
+
+**Auction House Gear:**  
+- Robes with +Stamina and +Spirit
+
+---
+
+### Level 53
+
+**Talent Point:**  
+- 2/1 Improved Succubus (Demonology)
+
+**Tailoring Recipes:**  
+- Shadoweave Robe (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Healthstone
+
+**Auction House Gear:**  
+- Cloak with +Intellect and +Stamina
+
+---
+
+### Level 54
+
+**Talent Point:**  
+- 3/1 Improved Succubus (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Curse of Agony (Rank 6)
+
+**Tailoring Recipes:**  
+- Shadoweave Robe (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Stamina (Chest) (Trainer)
+
+**Buffs & Consumables:**  
+- Elixir of Fortitude
+
+**Auction House Gear:**  
+- Gloves with +Spirit and +Stamina
+
+---
+
+### Level 55
+
+**Talent Point:**  
+- 4/1 Improved Succubus (Demonology)
+
+**Tailoring Recipes:**  
+- Crimson Silk Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Scroll of Spirit
+
+**Auction House Gear:**  
+- Robes with +Intellect and +Stamina
+
+---
+
+### Level 56
+
+**Talent Point:**  
+- 5/1 Improved Succubus (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Drain Life (Rank 5)
+
+**Tailoring Recipes:**  
+- Crimson Silk Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Agility (Boots) (Trainer)
+
+**Buffs & Consumables:**  
+- Healthstone
+
+**Auction House Gear:**  
+- Cloak with +Spirit and +Stamina
+
+---
+
+### Level 57
+
+**Talent Point:**  
+- 1/1 Improved Voidwalker (Demonology)
+
+**Tailoring Recipes:**  
+- Shadoweave Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Elixir of Wisdom
+
+**Auction House Gear:**  
+- Gloves with +Intellect and +Spirit
+
+---
+
+### Level 58
+
+**Talent Point:**  
+- 2/1 Improved Voidwalker (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Fear (Rank 5)
+
+**Tailoring Recipes:**  
+- Shadoweave Gloves (Trainer)
+
+**Enchanting Recipes:**  
+- Lesser Stamina (Chest) (Trainer)
+
+**Buffs & Consumables:**  
+- Scroll of Intellect
+
+**Auction House Gear:**  
+- Robes with +Stamina and +Spirit
+
+---
+
+### Level 59
+
+**Talent Point:**  
+- 3/1 Improved Voidwalker (Demonology)
+
+**Tailoring Recipes:**  
+- Crimson Silk Shoulders (Trainer)
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Healthstone
+
+**Auction House Gear:**  
+- Cloak with +Intellect and +Stamina
+
+---
+
+### Level 60
+
+**Talent Point:**  
+- 4/1 Improved Voidwalker (Demonology)
+
+**Visit Trainer?**  
+- Yes: Learn Shadow Bolt (Rank 8)
+
+**Tailoring Recipes:**  
+- Crimson Silk Shoulders (Trainer)
+
+**Enchanting Recipes:**  
+- Greater Intellect (Bracer) (Trainer)
+
+**Buffs & Consumables:**  
+- Elixir of Fortitude
+
+**Auction House Gear:**  
+- Gloves with +Spirit and +Stamina
+
+---
++++++++ REPLACE
+</replace_in_file>
