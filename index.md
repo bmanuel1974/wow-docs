@@ -1386,5 +1386,182 @@ Cooking is useful for self-healing and buffs.
 
 ---
 
+## ⌨️ Useful Macros
+
+### Pet Management Macros
+
+**Voidwalker Attack/Follow:**
+```lua
+#showtooltip
+/petattack
+/petfollow
+```
+
+**Pet Passive/Defensive:**
+```lua
+#showtooltip
+/petpassive
+/petdefensive
+```
+
+**Health Funnel Macro:**
+```lua
+#showtooltip Health Funnel
+/cast [@pet,exists] Health Funnel
+```
+
+**Sacrifice Voidwalker:**
+```lua
+#showtooltip Sacrifice
+/cast [@pet,exists] Sacrifice
+```
+
+### Spell Rotation Macros
+
+**Basic DoT Rotation:**
+```lua
+#showtooltip Curse of Agony
+/castsequence reset=target Curse of Agony, Corruption, Immolate
+```
+
+**Amplified Curse Rotation:**
+```lua
+#showtooltip Amplify Curse
+/cast Amplify Curse
+/cast Curse of Agony
+```
+
+**Drain Life with Health Check:**
+```lua
+#showtooltip Drain Life
+/cast [@player,hp<50] Drain Life
+```
+
+**Life Tap with Healthstone:**
+```lua
+#showtooltip Life Tap
+/cast Life Tap
+/use Healthstone
+```
+
+### Crowd Control Macros
+
+**Fear Target:**
+```lua
+#showtooltip Fear
+/cast [@target,harm] Fear
+```
+
+**Succubus Seduction:**
+```lua
+#showtooltip Seduction
+/cast [@target,harm] Seduction
+```
+
+**Pet Attack + Fear:**
+```lua
+#showtooltip Fear
+/petattack
+/cast Fear
+```
+
+### Utility Macros
+
+**Create Healthstone:**
+```lua
+#showtooltip Create Healthstone
+/cast Create Healthstone
+/use Healthstone
+```
+
+**Summon Mount:**
+```lua
+#showtooltip Summon Dreadsteed
+/cast Summon Dreadsteed
+```
+
+**Drain Soul for Mana:**
+```lua
+#showtooltip Drain Soul
+/cast [@target,hp<20] Drain Soul
+```
+
+### PvP Macros
+
+**Quick Fear + Pet Attack:**
+```lua
+#showtooltip Fear
+/petattack
+/cast Fear
+/stopcasting
+```
+
+**Dispel Magic (Felhunter):**
+```lua
+#showtooltip Devour Magic
+/cast [@target,harm] Devour Magic
+```
+
+**Spell Lock (Felhunter):**
+```lua
+#showtooltip Spell Lock
+/cast [@target,harm] Spell Lock
+```
+
+### Advanced Macros
+
+**Smart Pet Summon:**
+```lua
+#showtooltip Summon Voidwalker
+/cast [nopet] Summon Voidwalker
+/cast [pet:Voidwalker] Summon Felhunter
+/cast [pet:Felhunter] Summon Succubus
+/cast [pet:Succubus] Summon Voidwalker
+```
+
+**Emergency Healthstone:**
+```lua
+#showtooltip Healthstone
+/use [@player,hp<30] Healthstone
+/use [@player,hp<50] Healthstone
+```
+
+**Drain Life with Target Check:**
+```lua
+#showtooltip Drain Life
+/cast [@target,harm,hp>20] Drain Life
+```
+
+**Pet Attack + DoT:**
+```lua
+#showtooltip Curse of Agony
+/petattack
+/cast Curse of Agony
+/cast Corruption
+```
+
+### Macro Tips
+
+**General Guidelines:**
+- Use `#showtooltip` to show the spell icon and tooltip
+- Use `[@target,harm]` to only cast on hostile targets
+- Use `[@player,hp<50]` for health-based conditions
+- Use `/stopcasting` to interrupt current cast if needed
+- Use `/petattack` before offensive spells to ensure pet engagement
+
+**Conditional Casting:**
+- `[@target,exists]` - Only if target exists
+- `[@target,harm]` - Only on hostile targets
+- `[@player,hp<30]` - Only if player health below 30%
+- `[@pet,exists]` - Only if pet exists
+- `[nopet]` - Only if no pet is summoned
+
+**Pet-Specific Conditions:**
+- `[pet:Voidwalker]` - Only if Voidwalker is active
+- `[pet:Felhunter]` - Only if Felhunter is active
+- `[pet:Succubus]` - Only if Succubus is active
+
+---
+
 ## Buffs & Consumables Reference
 
