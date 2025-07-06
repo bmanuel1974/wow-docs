@@ -38,7 +38,7 @@ Each rotation is optimized for solo questing, dungeons, and PvP server survival.
 4. **Shadowburn** for finish
 5. Use **Life Tap** + **Drain Life** to recover
 
-#### 🔥 Packs of Mobs
+#### � Packs of Mobs
 1. Tag with **Corruption**
 2. **Felguard Cleave** on cooldown
 3. Cast **Seed of Corruption** (3+ mobs)
@@ -87,7 +87,7 @@ Each rotation is optimized for solo questing, dungeons, and PvP server survival.
 
 ---
 
-### 📎 Quick Tips
+### � Quick Tips
 - **Wand Finishers**: Save mana on mobs <15% HP
 - **Soulshatter**: Always use in dungeon AoE if you’re topping threat
 - **Dark Pact**: Best for Affliction with Imp/Felhunter
