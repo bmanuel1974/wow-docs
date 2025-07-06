@@ -380,10 +380,10 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - **350-375:** Shattrath City
 
 **Key Recipes & Sources:**
-- **Enchant Bracer - Major Intellect (315):** Trainer
-- **Enchant Chest - Exceptional Stats (325):** Trainer
-- **Enchant Weapon - Major Spellpower (340):** Drop from Shadow Labyrinth (15% drop rate)
-- **Enchant Ring - Spellpower (350):** Drop from Steamvault (10% drop rate)
+- **[Enchant Bracer - Major Intellect](https://tbc.wowhead.com/spell=34002/enchant-bracer-major-intellect) (315):** Trainer
+- **[Enchant Chest - Exceptional Stats](https://tbc.wowhead.com/spell=33990/enchant-chest-exceptional-stats) (325):** Trainer
+- **[Enchant Weapon - Major Spellpower](https://tbc.wowhead.com/spell=33993/enchant-weapon-major-spellpower) (340):** Drop from Shadow Labyrinth (15% drop rate)
+- **[Enchant Ring - Spellpower](https://tbc.wowhead.com/spell=27968/enchant-ring-spellpower) (350):** Drop from Steamvault (10% drop rate)
 
 **Leveling Path:**
 - **300-315:** Enchant Bracer - Major Intellect
@@ -401,15 +401,15 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 
 **Key Recipes & Sources:**
 - **Shadoweave Set:**
-  - Shadoweave Mask (315): Trainer
-  - Shadoweave Shoulders (320): Trainer
-  - Shadoweave Robe (325): Trainer
-  - Shadoweave Gloves (330): Trainer
-  - Shadoweave Pants (335): Trainer
+  - **[Shadoweave Mask](https://tbc.wowhead.com/item=21846/shadoweave-mask) (315):** Trainer
+  - **[Shadoweave Shoulders](https://tbc.wowhead.com/item=21847/shadoweave-shoulders) (320):** Trainer
+  - **[Shadoweave Robe](https://tbc.wowhead.com/item=21848/shadoweave-robe) (325):** Trainer
+  - **[Shadoweave Gloves](https://tbc.wowhead.com/item=21849/shadoweave-gloves) (330):** Trainer
+  - **[Shadoweave Pants](https://tbc.wowhead.com/item=21850/shadoweave-pants) (335):** Trainer
 - **Spellfire Set:**
-  - Spellfire Belt (340): Drop from Mana-Tombs (20% drop rate)
-  - Spellfire Gloves (345): Drop from Auchenai Crypts (18% drop rate)
-  - Spellfire Robe (350): Drop from Shadow Labyrinth (15% drop rate)
+  - **[Spellfire Belt](https://tbc.wowhead.com/item=21869/spellfire-belt) (340):** Drop from Mana-Tombs (20% drop rate)
+  - **[Spellfire Gloves](https://tbc.wowhead.com/item=21870/spellfire-gloves) (345):** Drop from Auchenai Crypts (18% drop rate)
+  - **[Spellfire Robe](https://tbc.wowhead.com/item=21871/spellfire-robe) (350):** Drop from Shadow Labyrinth (15% drop rate)
 
 **Leveling Path:**
 - **300-315:** Shadoweave Mask
@@ -448,10 +448,10 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - **350-375:** Shattrath City
 
 **Key Recipes & Sources:**
-- **Ravager Dog (315):** Vendor in Thrallmar/Honor Hold
-- **Clam Bar (325):** Vendor in Zangarmarsh
-- **Spotted Feltail (335):** Vendor in Terokkar Forest
-- **Golden Fish Sticks (345):** Drop from Steamvault (25% drop rate)
+- **[Ravager Dog](https://tbc.wowhead.com/item=27657/ravager-dog) (315):** Vendor in Thrallmar/Honor Hold
+- **[Clam Bar](https://tbc.wowhead.com/item=27664/clam-bar) (325):** Vendor in Zangarmarsh
+- **[Spotted Feltail](https://tbc.wowhead.com/item=27665/spotted-feltail) (335):** Vendor in Terokkar Forest
+- **[Golden Fish Sticks](https://tbc.wowhead.com/item=27666/golden-fish-sticks) (345):** Drop from Steamvault (25% drop rate)
 
 **Leveling Path:**
 - **300-315:** Ravager Dog
@@ -468,9 +468,9 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - **350-375:** Shattrath City
 
 **Key Recipes & Sources:**
-- **Heavy Netherweave Bandage (330):** Trainer
-- **Netherweave Bandage (340):** Trainer
-- **Heavy Netherweave Bandage (350):** Trainer
+- **[Heavy Netherweave Bandage](https://tbc.wowhead.com/item=27032/heavy-netherweave-bandage) (330):** Trainer
+- **[Netherweave Bandage](https://tbc.wowhead.com/item=21990/netherweave-bandage) (340):** Trainer
+- **[Heavy Netherweave Bandage](https://tbc.wowhead.com/item=27032/heavy-netherweave-bandage) (350):** Trainer
 
 **Leveling Path:**
 - **300-330:** Heavy Netherweave Bandage
@@ -554,10 +554,10 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - **Arcane Runes:** Turn in for 25 rep each
 
 **Key Recipes (Scryers Only):**
-- **Spellfire Belt (340):** Honored - Drop from Mana-Tombs (20% drop rate)
-- **Spellfire Gloves (345):** Honored - Drop from Auchenai Crypts (18% drop rate)
-- **Spellfire Robe (350):** Revered - Drop from Shadow Labyrinth (15% drop rate)
-- **Spellfire Shoulders (355):** Revered - Drop from Steamvault (12% drop rate)
+- **[Spellfire Belt](https://tbc.wowhead.com/item=21869/spellfire-belt) (340):** Honored - Drop from Mana-Tombs (20% drop rate)
+- **[Spellfire Gloves](https://tbc.wowhead.com/item=21870/spellfire-gloves) (345):** Honored - Drop from Auchenai Crypts (18% drop rate)
+- **[Spellfire Robe](https://tbc.wowhead.com/item=21871/spellfire-robe) (350):** Revered - Drop from Shadow Labyrinth (15% drop rate)
+- **[Spellfire Shoulders](https://tbc.wowhead.com/item=21872/spellfire-shoulders) (355):** Revered - Drop from Steamvault (12% drop rate)
 
 **Warlock Advantages:**
 - **Spellfire Set:** Best pre-raid gear for Warlocks
@@ -586,10 +586,10 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 - **Fel Armament:** Turn in for 25 rep each
 
 **Key Recipes (Aldor Only):**
-- **Lightweave Belt (340):** Honored - Drop from Mana-Tombs (20% drop rate)
-- **Lightweave Gloves (345):** Honored - Drop from Auchenai Crypts (18% drop rate)
-- **Lightweave Robe (350):** Revered - Drop from Shadow Labyrinth (15% drop rate)
-- **Lightweave Shoulders (355):** Revered - Drop from Steamvault (12% drop rate)
+- **[Lightweave Belt](https://tbc.wowhead.com/item=21873/lightweave-belt) (340):** Honored - Drop from Mana-Tombs (20% drop rate)
+- **[Lightweave Gloves](https://tbc.wowhead.com/item=21874/lightweave-gloves) (345):** Honored - Drop from Auchenai Crypts (18% drop rate)
+- **[Lightweave Robe](https://tbc.wowhead.com/item=21875/lightweave-robe) (350):** Revered - Drop from Shadow Labyrinth (15% drop rate)
+- **[Lightweave Shoulders](https://tbc.wowhead.com/item=21876/lightweave-shoulders) (355):** Revered - Drop from Steamvault (12% drop rate)
 
 **Warlock Disadvantages:**
 - **Lightweave Set:** Less optimal for Warlocks (more healing-focused)
@@ -602,11 +602,11 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 
 **Why Scryers is Better for Warlocks:**
 
-1. **Spellfire Set:** The Spellfire set is specifically designed for spell damage dealers and provides excellent stats for Warlocks:
-   - **Spellfire Robe:** +40 Intellect, +40 Stamina, +44 Spell Power
-   - **Spellfire Gloves:** +25 Intellect, +25 Stamina, +28 Spell Power
-   - **Spellfire Belt:** +20 Intellect, +20 Stamina, +22 Spell Power
-   - **Spellfire Shoulders:** +30 Intellect, +30 Stamina, +33 Spell Power
+1. **[Spellfire Set](https://tbc.wowhead.com/itemset=201/spellfire-set):** The Spellfire set is specifically designed for spell damage dealers and provides excellent stats for Warlocks:
+   - **[Spellfire Robe](https://tbc.wowhead.com/item=21871/spellfire-robe):** +40 Intellect, +40 Stamina, +44 Spell Power
+   - **[Spellfire Gloves](https://tbc.wowhead.com/item=21870/spellfire-gloves):** +25 Intellect, +25 Stamina, +28 Spell Power
+   - **[Spellfire Belt](https://tbc.wowhead.com/item=21869/spellfire-belt):** +20 Intellect, +20 Stamina, +22 Spell Power
+   - **[Spellfire Shoulders](https://tbc.wowhead.com/item=21872/spellfire-shoulders):** +30 Intellect, +30 Stamina, +33 Spell Power
 
 2. **Set Bonuses:** Spellfire set provides:
    - **2-piece:** +20 Spell Power
@@ -632,72 +632,72 @@ A comprehensive guide for efficient solo and dungeon leveling as a Warlock in Th
 ## ⚔️ Pre-Raid BIS Gear
 
 ### Head
-- **BIS:** Hood of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Spellfire Hood (Tailoring crafted)
+- **BIS:** [Hood of the Avatar](https://tbc.wowhead.com/item=31056/hood-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Spellfire Hood](https://tbc.wowhead.com/item=21846/spellfire-hood) (Tailoring crafted)
 
 ### Neck
-- **BIS:** Pendant of the Violet Eye (Karazhan - Attumen)
-- **Alternative:** Choker of Vile Intent (Heroic Shadow Labyrinth)
+- **BIS:** [Pendant of the Violet Eye](https://tbc.wowhead.com/item=29383/pendant-of-the-violet-eye) (Karazhan - Attumen)
+- **Alternative:** [Choker of Vile Intent](https://tbc.wowhead.com/item=29382/choker-of-vile-intent) (Heroic Shadow Labyrinth)
 
 ### Shoulders
-- **BIS:** Mantle of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Spellfire Shoulders (Tailoring crafted)
+- **BIS:** [Mantle of the Avatar](https://tbc.wowhead.com/item=31060/mantle-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Spellfire Shoulders](https://tbc.wowhead.com/item=21872/spellfire-shoulders) (Tailoring crafted)
 
 ### Back
-- **BIS:** Cloak of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Cloak of the Burning Acolyte (Heroic Blood Furnace)
+- **BIS:** [Cloak of the Avatar](https://tbc.wowhead.com/item=31058/cloak-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Cloak of the Burning Acolyte](https://tbc.wowhead.com/item=29385/cloak-of-the-burning-acolyte) (Heroic Blood Furnace)
 
 ### Chest
-- **BIS:** Robes of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Spellfire Robe (Tailoring crafted)
+- **BIS:** [Robes of the Avatar](https://tbc.wowhead.com/item=31057/robes-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Spellfire Robe](https://tbc.wowhead.com/item=21871/spellfire-robe) (Tailoring crafted)
 
 ### Wrists
-- **BIS:** Bracers of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Bracers of Havok (Heroic Steamvault)
+- **BIS:** [Bracers of the Avatar](https://tbc.wowhead.com/item=31055/bracers-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Bracers of Havok](https://tbc.wowhead.com/item=29387/bracers-of-havok) (Heroic Steamvault)
 
 ### Hands
-- **BIS:** Gloves of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Spellfire Gloves (Tailoring crafted)
+- **BIS:** [Gloves of the Avatar](https://tbc.wowhead.com/item=31054/gloves-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Spellfire Gloves](https://tbc.wowhead.com/item=21870/spellfire-gloves) (Tailoring crafted)
 
 ### Waist
-- **BIS:** Belt of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Spellfire Belt (Tailoring crafted)
+- **BIS:** [Belt of the Avatar](https://tbc.wowhead.com/item=31052/belt-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Spellfire Belt](https://tbc.wowhead.com/item=21869/spellfire-belt) (Tailoring crafted)
 
 ### Legs
-- **BIS:** Leggings of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Spellfire Pants (Tailoring crafted)
+- **BIS:** [Leggings of the Avatar](https://tbc.wowhead.com/item=31053/leggings-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Spellfire Pants](https://tbc.wowhead.com/item=21850/spellfire-pants) (Tailoring crafted)
 
 ### Feet
-- **BIS:** Boots of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Boots of the Burning Acolyte (Heroic Blood Furnace)
+- **BIS:** [Boots of the Avatar](https://tbc.wowhead.com/item=31051/boots-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Boots of the Burning Acolyte](https://tbc.wowhead.com/item=29386/boots-of-the-burning-acolyte) (Heroic Blood Furnace)
 
 ### Ring 1
-- **BIS:** Ring of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Ring of the Burning Acolyte (Heroic Blood Furnace)
+- **BIS:** [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Ring of the Burning Acolyte](https://tbc.wowhead.com/item=29384/ring-of-the-burning-acolyte) (Heroic Blood Furnace)
 
 ### Ring 2
-- **BIS:** Ring of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Ring of the Burning Acolyte (Heroic Blood Furnace)
+- **BIS:** [Ring of the Avatar](https://tbc.wowhead.com/item=31049/ring-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Ring of the Burning Acolyte](https://tbc.wowhead.com/item=29384/ring-of-the-burning-acolyte) (Heroic Blood Furnace)
 
 ### Trinket 1
-- **BIS:** Icon of the Silver Crescent (Karazhan - Attumen)
-- **Alternative:** Essence of the Martyr (Heroic Auchenai Crypts)
+- **BIS:** [Icon of the Silver Crescent](https://tbc.wowhead.com/item=29376/icon-of-the-silver-crescent) (Karazhan - Attumen)
+- **Alternative:** [Essence of the Martyr](https://tbc.wowhead.com/item=29370/essence-of-the-martyr) (Heroic Auchenai Crypts)
 
 ### Trinket 2
-- **BIS:** Shard of the Virtuous (Karazhan - Maiden of Virtue)
-- **Alternative:** Essence of the Martyr (Heroic Auchenai Crypts)
+- **BIS:** [Shard of the Virtuous](https://tbc.wowhead.com/item=29377/shard-of-the-virtuous) (Karazhan - Maiden of Virtue)
+- **Alternative:** [Essence of the Martyr](https://tbc.wowhead.com/item=29370/essence-of-the-martyr) (Heroic Auchenai Crypts)
 
 ### Main Hand
-- **BIS:** Staff of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Staff of the Burning Acolyte (Heroic Blood Furnace)
+- **BIS:** [Staff of the Avatar](https://tbc.wowhead.com/item=31048/staff-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Staff of the Burning Acolyte](https://tbc.wowhead.com/item=29383/staff-of-the-burning-acolyte) (Heroic Blood Furnace)
 
 ### Off Hand
-- **BIS:** Orb of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Orb of the Burning Acolyte (Heroic Blood Furnace)
+- **BIS:** [Orb of the Avatar](https://tbc.wowhead.com/item=31047/orb-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Orb of the Burning Acolyte](https://tbc.wowhead.com/item=29382/orb-of-the-burning-acolyte) (Heroic Blood Furnace)
 
 ### Wand
-- **BIS:** Wand of the Avatar (Karazhan - Prince Malchezaar)
-- **Alternative:** Wand of the Burning Acolyte (Heroic Blood Furnace)
+- **BIS:** [Wand of the Avatar](https://tbc.wowhead.com/item=31046/wand-of-the-avatar) (Karazhan - Prince Malchezaar)
+- **Alternative:** [Wand of the Burning Acolyte](https://tbc.wowhead.com/item=29381/wand-of-the-burning-acolyte) (Heroic Blood Furnace)
 
 ---
 
