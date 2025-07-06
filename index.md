@@ -18,6 +18,7 @@ A comprehensive, step-by-step guide for efficient solo and dungeon leveling as a
 - [Dungeon Guide](#dungeon-guide)
 - [Buffs & Consumables Reference](#buffs--consumables-reference)
 - [Auction House Gear Reference](#auction-house-gear-reference)
+- [Professions Leveling Guide](#professions-leveling-guide)
 - [Professions Reference](#professions-reference)
 - [Optimal Rotations](#optimal-rotations)
 - [Quick Tips](#quick-tips)
@@ -1104,6 +1105,102 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 - **Kirtonos the Herald:** Use Voidwalker, keep Corruption up.
 - **Ras Frostwhisper:** Use all cooldowns, keep Voidwalker tanking.
 - **Darkmaster Gandling:** Use all cooldowns, keep Voidwalker tanking.
+
+---
+
+## 🧵 Professions Leveling Guide
+
+### Enchanting
+Enchanting is a great profession for Warlocks, providing self-buffs and the ability to disenchant unwanted gear for materials.
+
+**Leveling Path & Key Recipes:**
+- **1-50:** Enchant Bracer - Minor Health (Trainer, no req.)
+- **51-75:** Enchant Bracer - Minor Deflection (Trainer, Enchanting 50)
+- **76-100:** Enchant Bracer - Minor Stamina (Trainer, Enchanting 80)
+- **101-135:** Enchant Bracer - Lesser Health (Trainer, Enchanting 100)
+- **136-150:** Enchant Bracer - Lesser Stamina (Trainer, Enchanting 135)
+- **151-200:** Enchant Bracer - Spirit (Trainer, Enchanting 150)
+- **201-225:** Enchant Bracer - Strength (Trainer, Enchanting 200)
+- **226-250:** Enchant Bracer - Greater Strength (Trainer, Enchanting 225)
+- **251-300:** Enchant Cloak - Superior Defense (Drop: Stratholme, Enchanting 285)
+
+**Sources:**
+- Most recipes up to 225 are from trainers in major cities.
+- Some higher-level recipes are world drops or purchased from vendors (e.g., Formula: Enchant Bracer - Greater Intellect from Lorelae Wintersong in Moonglade).
+
+**Tips:**
+- Disenchant all green/blue items for materials.
+- Visit trainers at skill 50, 100, 135, 200, and 225 to unlock new recipes.
+
+---
+
+### Tailoring
+Tailoring is ideal for Warlocks, providing powerful cloth gear and bags.
+
+**Leveling Path & Key Recipes:**
+- **1-75:** Linen Cloth (Linen Bandage, Linen Bag, Trainer)
+- **76-125:** Wool Cloth (Woolen Bag, Gray Woolen Shirt, Trainer)
+- **126-175:** Silk Cloth (Silk Headband, Azure Silk Pants, Trainer)
+- **176-225:** Mageweave Cloth (Crimson Silk Vest, Crimson Silk Robe, Trainer)
+- **226-250:** Mageweave/Runcloth (Runecloth Belt, Trainer)
+- **251-300:** Runecloth (Runecloth Bag, Trainer)
+
+**Notable Recipes & Sources:**
+- **Shadoweave Set:**
+  - Shadoweave Mask (Drop: Dark Adept, Stratholme)
+  - Shadoweave Robe (Trainer, requires 230 Tailoring)
+  - Shadoweave Shoulders (Trainer, requires 240 Tailoring)
+- **Robes of Power:** Quest reward (Magecraft, Dustwallow Marsh, 190 Tailoring)
+- **Runecloth Bag:** Trainer, requires 260 Tailoring
+
+**Tips:**
+- Farm humanoids for cloth drops.
+- Visit trainers at skill 75, 125, 175, 225, and 250.
+- Many high-end patterns are world drops or from dungeon bosses.
+
+---
+
+### Fishing
+Fishing provides food for Cooking and materials for potions.
+
+**Leveling Path:**
+- **1-75:** Any starting zone, fish in low-level waters
+- **76-150:** Stay in low-level zones or move to city waters
+- **151-225:** Hillsbrad Foothills, Stranglethorn Vale, or Desolace
+- **226-300:** Feralas, Azshara, Eastern Plaguelands
+
+**Key Recipes & Sources:**
+- **Expert Fishing:** Book: "Expert Fishing - The Bass and You" (Nat Pagle, Dustwallow Marsh, requires 125 Fishing)
+- **Artisan Fishing:** Quest: Nat Pagle, Angler Extreme (Dustwallow Marsh, requires 225 Fishing)
+- **Deviate Fish:** Barrens, Wailing Caverns Lair
+- **Stonescale Eel:** Tanaris, Feralas, Azshara (for high-level potions)
+
+**Tips:**
+- Buy a Strong Fishing Pole from Old Man Heming (Booty Bay)
+- Use lures to increase skill
+- Fishing quests are available in Booty Bay
+
+---
+
+### Cooking
+Cooking is useful for self-healing and buffs.
+
+**Leveling Path & Key Recipes:**
+- **1-40:** Spice Bread (Trainer)
+- **41-85:** Smoked Bear Meat (Vendor: Drac Roughcut, Loch Modan)
+- **86-125:** Boiled Clams (Vendor: Kelsey Yance, Booty Bay)
+- **126-175:** Curiously Tasty Omelet (Vendor: Keena, Stonetalon Mountains)
+- **176-225:** Roast Raptor (Vendor: Kelsey Yance, Booty Bay)
+- **226-250:** Monster Omelet (Vendor: Dirge Quikcleave, Gadgetzan)
+- **251-300:** Tender Wolf Steak (Vendor: Dirge Quikcleave, Gadgetzan)
+
+**Sources:**
+- Most recipes are from vendors in major cities or quest rewards.
+- Some high-end recipes are world drops or from dungeons.
+
+**Tips:**
+- Buy recipes as soon as you reach the required skill.
+- Cooking quests are available in Gadgetzan (Desert Recipe, 225+).
 
 ---
 
