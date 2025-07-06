@@ -32,17 +32,166 @@ This guide is for Warlocks leveling from 25+ in WoW Classic. It covers solo ques
 
 ## 🗺️ Level-by-Level Guide
 
-<!--
-For each level (starting at 25), include:
-- Talent point allocation
-- Trainer visit info
-- Rotation changes
-- Professions: Tailoring/Enchanting recipes
-- Buffs & consumables
-- Auction house gear
--->
+### Level 25
 
-*Coming soon: Detailed level-by-level breakdown!*
+**Talent Point:**  
+- 5/5 Improved Corruption (Affliction)  
+- 2/2 Improved Life Tap (Affliction)
+
+**Visit Trainer?**  
+- Yes: Learn Curse of Agony (Rank 3), Life Tap (Rank 3)
+
+**Rotation Change:**  
+- Start using Curse of Agony (Rank 3) in rotation.
+
+**Tailoring Recipes:**  
+- Silk Headband  
+- Azure Silk Pants
+
+**Enchanting Recipes:**  
+- Lesser Intellect (Bracer)  
+- Lesser Stamina (Chest)
+
+**Buffs & Consumables:**  
+- Elixir of Wisdom  
+- Healthstone  
+- Mana Potion
+
+**Auction House Gear:**  
+- Robes with +Intellect and +Stamina  
+- Wands with highest DPS available
+
+---
+
+### Level 26
+
+**Talent Point:**  
+- 3/3 Suppression (Affliction)
+
+**Visit Trainer?**  
+- Yes: Learn Curse of Agony (Rank 4), Life Tap (Rank 4)
+
+**Rotation Change:**  
+- Use improved Curse of Agony for better DoT.
+
+**Tailoring Recipes:**  
+- Azure Silk Hood
+
+**Enchanting Recipes:**  
+- Lesser Spirit (Weapon)
+
+**Buffs & Consumables:**  
+- Elixir of Fortitude  
+- Scroll of Intellect
+
+**Auction House Gear:**  
+- Gloves with +Spirit and +Stamina
+
+---
+
+### Level 27
+
+**Talent Point:**  
+- 2/2 Improved Drain Soul (Affliction)
+
+**Visit Trainer?**  
+- No
+
+**Rotation Change:**  
+- Add Drain Soul to rotation for better mana regen.
+
+**Tailoring Recipes:**  
+- Silk Robe
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Elixir of Firepower
+
+**Auction House Gear:**  
+- Robes with +Spirit and +Intellect
+
+---
+
+### Level 28
+
+**Talent Point:**  
+- 1/1 Amplify Curse (Affliction)
+
+**Visit Trainer?**  
+- Yes: Learn Amplify Curse, Drain Life (Rank 3)
+
+**Rotation Change:**  
+- Use Amplify Curse before Curse of Agony on tough mobs.
+
+**Tailoring Recipes:**  
+- Spider Silk Boots
+
+**Enchanting Recipes:**  
+- Lesser Beastslayer (Weapon)
+
+**Buffs & Consumables:**  
+- Scroll of Spirit
+
+**Auction House Gear:**  
+- Cloak with +Stamina and +Spirit
+
+---
+
+### Level 29
+
+**Talent Point:**  
+- 1/2 Grim Reach (Affliction)
+
+**Visit Trainer?**  
+- No
+
+**Rotation Change:**  
+- No major change.
+
+**Tailoring Recipes:**  
+- Spider Belt
+
+**Enchanting Recipes:**  
+- Disenchant green items for dust
+
+**Buffs & Consumables:**  
+- Elixir of Wisdom
+
+**Auction House Gear:**  
+- Robes with +Intellect and +Stamina
+
+---
+
+### Level 30
+
+**Talent Point:**  
+- 2/2 Grim Reach (Affliction)
+
+**Visit Trainer?**  
+- Yes: Learn Shadow Bolt (Rank 5), Health Funnel (Rank 3)
+
+**Rotation Change:**  
+- Use Shadow Bolt Rank 5 for better damage.
+
+**Tailoring Recipes:**  
+- Formal White Shirt (for skillups)  
+- Green Woolen Bag
+
+**Enchanting Recipes:**  
+- Lesser Mana (Weapon)
+
+**Buffs & Consumables:**  
+- Healthstone  
+- Mana Potion
+
+**Auction House Gear:**  
+- Gloves with +Intellect and +Spirit
+
+---
+
+*Further levels can be added similarly following this format.*
 
 ---
 
